@@ -3,7 +3,7 @@ title: A nice dog
 date: 2019-03-16 07:42:34
 description: "this is a story about a very nice dog from philsophy class who knows all about clever thinkers"
 image: "./images/hugh.jpg"
-slug: Minnie
+slug: hugh
 ---
 
 Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
