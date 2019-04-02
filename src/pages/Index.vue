@@ -9,26 +9,60 @@
         <div v-html="node.description"/>
       </li>
     </ul>
+
+     <Pager :info="$page.allBlogPost.pageInfo"/>
+      <Card />
   </Layout>
+
+
+
 </template>
+
 
 <page-query>
   query Home ($page: Int) {
-    allBlogPost (page: $page) {
-      edges {
-        node {
-          _id
-          title
-          date (format: "D MMMM, YYYY")
-          description
-          path
-        }
+    allBlogPost (perPage: 3, page: $page) @paginate {
+    totalCount
+    pageInfo {
+      totalPages
+      currentPage
+      isFirst
+      isLast
+    }
+    edges {
+      node {
+        title
+        path
       }
     }
   }
+  }
 </page-query>
 
-<style scoped>
+
+
+
+
+
+
+
+<script>
+import { Pager } from "gridsome";
+import Card from '~/components/Card.vue'
+export default {
+  components: {
+    Pager,
+     Card
+  }
+};
+</script>
+
+<style scoped
+
+ul nav a {
+  padding:
+}
+
   .home >>> .heading {
     margin-bottom: 70px;
   }

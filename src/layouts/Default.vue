@@ -36,6 +36,11 @@ export default {
     text-decoration: none;
   }
 
+ nav a {
+  padding: 12px;
+  font-size: 16px;
+  }
+
   h1, h2, h3, h4, h5, h6 {
     font-family: 'Mali', cursive;
   }
