@@ -4,9 +4,10 @@
       <header class="clearfix">
         <h1>{{ $page.blogPost.title }}</h1>
         <span>{{ $page.blogPost.date }}</span>
+        </header>
         <g-image :src="$page.blogPost.image" width="600" fit="contain" />
 
-       </header>
+     
 
       <div class="content" v-html="$page.blogPost.content" />
     </div>
