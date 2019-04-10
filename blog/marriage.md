@@ -1,17 +1,9 @@
 ---
-title: The State and Marriage
-date:  2017-02-27
 layout: post.html
-with: Clare Chambers
-slug: the-state-and-marriage
-image: ./images/memes/marriage-state.jpg
-mp3: http://traffic.libsyn.com/philosophy247/chambers-marriage.mp3
-collection: podcasts
+title: The State and Marriage
 description: Should a state with liberal values recognise marriage?
-portrait: /assets/img/profiles/clare.chambers.jpg
-length: 15955859
-duration: 18.55
-bio: Dr Clare Chambers is a Senior Lecturer in Philosophy and Fellow of Jesus College, University of Cambridge. Her field is contemporary political philosophy, mainly (but not exclusively) Anglo-American analytical theory.of Cambridge.  Her field is contemporary political philosophy. There are three main strands to her work - feminism, liberalism, and social construction.  She is the author of three boox Sex, Culture, and Justice - The Limits of Choice (Penn State University Press, 2008) and, with Phil Parvin, Teach Yourself Political Philosophy - A Complete Introduction (Hodder, 2012). Her third book,  Against Marriage - An Egalitarian Defence of the Marriage-Free State, is being published by Oxford University Press in early 2017.
+date: 2017-02-27T00:00:00.000Z
+image: /media/images/marriage-state.jpg
 ---
 
 
