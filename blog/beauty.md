@@ -1,9 +1,10 @@
 ---
 title: Are we becoming too preoccupied with beauty?
-date: 2019-04-07 07:42:34 
-image: "./images/memes/beauty.jpg"
-slug: beauty
-
+description: >-
+  Society expects us to commit to norms of beauty more than ever, says Heather
+  Widdows
+date: 2019-04-07T07:42:34.000Z
+image: /media/images/beauty.jpg
 ---
 
 <p>
