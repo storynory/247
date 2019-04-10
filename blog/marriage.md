@@ -3,7 +3,7 @@ layout: post.html
 title: The State and Marriage
 description: Should a state with liberal values recognise marriage?
 date: 2017-02-27T00:00:00.000Z
-image: /media/images/marriage-state.jpg
+image: ../src/assets/images/marriage-state.jpg
 ---
 
 

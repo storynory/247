@@ -5,7 +5,7 @@
         <h1>{{ $page.blogPost.title }}</h1>
         <span>{{ $page.blogPost.date }}</span>
         </header>
-        <g-image :src="$page.blogPost.image" width="600" fit="contain" />
+        <g-image :src="$page.blogPost.image" width="600" height="400" fit="cover" />
 
      
 

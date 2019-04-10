@@ -33,6 +33,12 @@ module.exports = {
         typeName: 'BlogPost',
         route: '/:slug'
       }
+    },
+    {
+      use: `gridsome-plugin-netlify-cms`,
+      options: {
+        publicPath: `/admin`
+      }
     }
   ]
 }

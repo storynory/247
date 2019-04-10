@@ -1,20 +1,17 @@
-
 backend:
-  # Choose the backend you prefer (GitHub, GitLab, BitBucket)
-  # Reference: https://www.netlifycms.org/docs/authentication-backends/
   name: github
-  branch: master
-  repo: storynory/247
-# This line should *not* be indented
-media_folder: "static/media/images" # Media files will be stored in the repo under images/uploads
-public_folder: "/media/images" # The src attribute for uploaded media will begin with /images/uploads
+  repo: your_name/repo_name
+
+media_folder: "../../static/uploads"
+public_folder: "/uploads"
+
 
 collections:
   - name: "blog" # Used in routes, e.g., /admin/collections/blog
     label: "Blog" # Used in the UI
     folder: "blog" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
       - {label: "Layout", name: "layout", widget: "hidden", default: "blog"}
       - {label: "Title", name: "title", widget: "string"}
