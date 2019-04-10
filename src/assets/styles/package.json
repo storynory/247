@@ -1,0 +1,32 @@
+{
+  "name": "kisscss",
+  "version": "1.0.0",
+  "description": "build your own bootstrap",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "build:css": "postcss styles.css -o screen5.css -c config.json",
+    "watch:css": " watch 'npm run build:css' ./ ",
+    "kisscss": "parallelshell 'npm run watch:css' "
+  },
+  "author": "Hugh Fraser",
+  "license": "MIT",
+  "dependencies": {
+    "autoprefixer": "latest",
+    "postcss": "latest",
+    "postcss-calc": "latest",
+    "postcss-cli-simple": "^1.0.4",
+    "postcss-color-function": "latest",
+    "postcss-extend": "latest",
+    "postcss-font-magician": "latest",
+    "postcss-inline-svg": "latest",
+    "postcss-mixins": "latest",
+    "postcss-nesting": "latest",
+    "postcss-partial-import": "latest",
+    "postcss-pxtorem": "latest",
+    "postcss-simple-vars": "latest",
+    "postcss-svg": "^1.0.5",
+    "postcss-svgo": "latest",
+    "watch": "^1.0.2"
+  }
+}

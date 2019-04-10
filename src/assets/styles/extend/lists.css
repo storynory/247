@@ -1,0 +1,53 @@
+/* ==========================================================================
+   Lists and Navs
+   ========================================================================== */
+ul.centered,
+.page-navigation {
+  display: table;
+  margin: auto;
+
+}
+ul.centered > ul li,
+.page-navigation > ul li {
+  display: inline;
+}
+
+
+.list-stacked > li {
+		@extend %width-one-hundred-per-cent;
+		@extend %overflow-hidden;
+}
+
+
+
+/* Special Ordered List */
+
+	ul.count {
+		counter-reset: my-counter;
+
+
+	}
+
+	ul.count > li:before {
+		content: counter(my-counter);
+		counter-increment: my-counter;
+
+	}
+
+
+
+.nav {
+	@extend %position-relative ;
+	@extend %width-one-hundred-per-cent;
+
+  ul {
+	/*@extend %float-left;*/
+	@extend %position-relative;
+	@extend %list-style-none;
+	/*@extend %width-one-hundred-per-cent;*/
+	@extend %display-block;
+  }
+
+
+
+}	

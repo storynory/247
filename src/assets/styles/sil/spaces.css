@@ -1,0 +1,127 @@
+/* 
+   spaces / margins
+   ========================================================================== */
+
+
+.space {
+	margin: $line;
+}
+
+.space-top-bottom {
+	margin: $line 0
+}
+
+.space-left-right {
+	margin:  0  $line
+}
+
+.space-left {
+	margin-left: $line;
+}
+
+.space-right {
+	margin-right: $line;
+}
+
+.space-top {
+
+	margin-top: $line;
+}
+
+.space-bottom {
+	margin-bottom: $line;
+}
+
+
+/*****/
+
+.space-mini {
+	margin: calc( $line / 2 );
+}
+
+.space-mini-top-bottom {
+	margin: calc( $line / 2 ) 0
+}
+
+.space-mini-left-right {
+	margin:  0  calc( $line / 2 )
+}
+
+.space-mini-left {
+	margin-left: calc( $line / 2 );
+}
+
+.space-mini-right {
+	margin-right: calc( $line / 2 );
+}
+
+.space-mini-top {
+	
+	margin-top: calc( $line / 2 );
+}
+
+.space-mini-bottom {
+	margin-bottom: calc( $line / 2 );
+}
+
+/********/
+
+.space-tiny {
+	margin: calc( $line / 4 );
+}
+
+.space-tiny-top-bottom {
+	margin: calc( $line / 4 ) 0
+}
+
+.space-tiny-left-right {
+	margin:  0  calc( $line / 4 )
+}
+
+.space-tiny-left {
+	margin-left: calc( $line / 4 );
+}
+
+.space-tiny-right {
+	margin-right: calc( $line / 4 );
+}
+
+.space-tiny-top {
+	
+	margin-top: calc( $line / 4 );
+}
+
+.space-tiny-bottom {
+	margin-bottom: calc( $line / 4 );
+}
+
+/***********/
+
+.space-big {
+	margin: calc($line * 2);
+}
+
+.space-big-top-bottom {
+	margin: calc( $line * 2 ) 0
+}
+
+.space-big-left-right {
+	margin:  0  calc( $line * 2 )
+}
+
+.space-big-left {
+	margin-left: calc( $line * 2 );
+}
+
+.space-big-right {
+	margin-right: calc( $line * 2 );
+}
+
+.space-big-top {
+	
+	margin-top: calc( $line * 2 );
+}
+
+.space-big-bottom {
+	margin-bottom: calc( $line * 2 );
+}

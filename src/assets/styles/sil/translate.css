@@ -1,0 +1,21 @@
+
+%transition-medium {
+	 transition: all 0.4s ease-in;
+}
+
+
+%translatex-100 {
+	transform: translate3D(100%,0,0);
+}
+
+%translatex-50 {
+	transform: translate3D(50%,0,0);
+}
+
+%translatex-minus-50 {
+	transform: translate3D(-50%,0,0);
+}
+
+%translatex-minus-100 {
+	transform: translate3D(-100%,0,0);
+}

@@ -1,0 +1,19 @@
+/*transitions */
+
+.trans-med {
+	@extend %transition-medium
+}
+
+
+.moveX-100.active {
+	@extend %translatex-100 
+}
+
+.moveX-50.active {
+	@extend %translatex-50 
+}
+
+
+.moveX-minus-50.active {
+	@extend %translatex-minus-50 
+}

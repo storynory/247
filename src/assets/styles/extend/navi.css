@@ -1,0 +1,22 @@
+.bones_page_navi > li,
+.nav--group > li {
+  float: left;
+}
+.bones_page_navi > li > a,
+.nav--group > li > a {
+  border: 0 solid gray;
+  border-width: 1px;
+  border-left-width: 0;
+  padding: 12px;
+}
+.bones_page_navi > li:first-child > a,
+.nav--group > li:first-child > a {
+  border-left-width: 1px;
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+}
+.bones_page_navi > li:last-child > a,
+.nav--group > li:last-child > a {
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+}

@@ -1,0 +1,23 @@
+/*  formss             */
+
+select {
+    display: inline-block;
+
+    height: 38px;
+    vertical-align: middle;
+    border-radius: 4px;
+}
+
+input.text:focus {
+
+	border-color: blue;
+}
+
+button, select {
+    text-transform: none;
+}
+button, input, select, textarea {
+    font-family: inherit;
+    font-size: 100%;
+    margin: 0;
+}

@@ -1,0 +1,52 @@
+
+.duration-1s {
+transition-duration: 1s;
+}
+
+.duration-3s {
+transition-duration: 3s;
+}
+
+.menu-push-to-left.active {
+  transform: translate3D(-310px,0,0);
+}
+
+.vanish.active {
+	display: block;
+}
+
+
+.moveX-minus-300px.active {
+
+
+    transform: translate3D(-300px,0,0);
+}
+
+
+
+.moveX-minus-100.active {
+    transform: translate3D(-100%,0,0);
+}
+
+
+/* for example move menu off to right then add active 
+to make it appear */
+
+
+
+.right-100 {
+	right: 100%;
+}
+
+
+	.moveX-plus-100.active {
+	    transform: translate3D(100%,0,0);
+	}
+
+
+.moveX-50.active {
+    transform: translate3D(50%, 0, 0)
+}
+.moveX-minus-50.active {
+    transform: translate3D(-50%, 0, 0)
+}

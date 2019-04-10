@@ -1,0 +1,134 @@
+%float-left {
+	float: left;
+}
+
+%float-right {
+	float: right;
+}
+
+%float-none {
+	float: none important!;
+}
+
+%clear-both {
+	clear: both;
+}
+
+%position-absolute {
+	position: absolute;
+}
+
+%position-relative {
+	position: relative;
+}
+
+%position-fixed {
+	position: fixed;
+}
+
+%left-0 {
+	left: 0;
+}
+
+%right-0 {
+	right: 0;
+}
+
+%top-0 {
+	top: 0;
+}
+
+%bottom-0 {
+	bottom: 0;
+}
+
+%overflow-visible {
+	overflow: visible
+}
+
+%overflow-hidden {
+	overflow: hidden
+}
+
+%overflow-scroll {
+	overflow: scroll
+}
+
+%overflow-auto {
+	overflow: auto
+}
+
+%overflow-x-visible {
+	overflow-x : visible
+}
+
+%overflow-x-hidden {
+	overflow-x : hidden
+}
+
+%overflow-x-hidden {
+	overflow-x : scroll
+}
+
+%overflow-x-auto {
+	overflow-x : auto
+}
+
+/* */
+%overflow-y-visible {
+	overflow-x : visible
+}
+
+%overflow-x-hidden {
+	overflow-y : hidden
+}
+
+%overflow-y-hidden {
+	overflow-y : scroll
+}
+
+%overflow-y-auto {
+	overflow-y : auto
+}
+
+%display-inline {
+	display: inline
+}
+
+%display-inline-block {
+	display: inline-block;
+}
+
+%display-none {
+	display: none;
+}
+
+%display-block {
+	display: block;
+}
+
+%display-flex {
+	display: flex
+}
+
+%display-inline-flex {
+	display: inline-flex;
+}
+
+%display-table {
+	display: table;
+}
+
+%display-table-cell {
+	display: table-cell;
+}
+
+
+%margin-auto {
+margin: auto;
+
+}
+
+
+
+/* need to add more flex props when better understand them */

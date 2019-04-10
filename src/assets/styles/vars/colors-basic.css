@@ -1,0 +1,34 @@
+$bluecolor : rgb(059,130,204);
+$greencolor : rgb(059,130,204);
+$redcolor :  rgb(204,69,059);
+$graycolor : rgb(121,137,153);
+$pinkcolor : rgb(255,182,163);
+$orangecolor : rgb(255,182,163);
+
+
+$full : 100%;
+$lessfull : 75%;
+$halffull : 50%;
+$quarterfull : 25%;
+$lowfull:  5%;
+
+
+
+$black : hsl(240, 3%, 26%);
+$black-dark :    hsl(240, 3%, 15%); 
+$black-darker :  hsl(0, 0%, 42%);
+$black-light :   hsl(45, 2%, 40%); 
+$black-lighter :  hsl(240, 3%, 35%); 
+
+$white : hsl(240, 100%, 100%);
+$white-dark :     hsl(123, 100%, 97%);
+$white-darker :   hsl(38, 85%, 95%);
+$white-light :    hsl(240, 100%, 100%);
+$white-lighter :  hsl(240, 100%, 100%);
+
+$gray : hsl(240, 25%, 89%);
+$gray-dark :     ( $gray l( - 10%))  ;
+$gray-darker :   ( $gray l( - 20%))  ;
+$gray-light :    ( $gray l( + 10%))  ;
+$gray-lighter :  ( $gray l( + 20%))  ;
+

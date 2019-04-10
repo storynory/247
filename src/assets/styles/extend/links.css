@@ -1,0 +1,35 @@
+/*    links           */
+  a  {
+		@extend %text-decoration-none;
+	
+		
+	}
+
+
+a:hover {
+		@extend %text-decoration-none;
+}
+
+
+/*
+a {
+  @extend %color-main-light;
+}
+
+a:hover {
+	@extend %color-main-dark;
+}
+
+a:active {
+	@extend %color-main-dark;
+}
+
+a:visited {
+	@extend %color-main-light;
+}
+
+a.inherit {
+	color: inherit;
+}
+
+*/

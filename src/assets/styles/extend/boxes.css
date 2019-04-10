@@ -1,0 +1,272 @@
+
+/* boxes */
+
+.box
+ {
+	@extend %box-padding-top;
+	@extend %box-padding-right;
+	@extend %box-padding-bottom;
+	@extend %box-padding-left;
+	@extend %border;
+}
+
+.box-top {
+	@extend %box-padding-top;
+	@extend %border;
+	
+}
+
+.box-bottom {
+	@extend %box-padding-bottom;
+	@extend %border;
+
+}
+
+.box-top-bottom {
+	@extend %box-padding-top;
+	@extend %box-padding-bottom;
+	@extend %border;
+	@extend %box-flush-left;
+	@extend %box-flush-right;
+}
+
+.box-right {
+	@extend %box-padding-right;
+	@extend %border;
+}
+
+.box-left {
+	@extend %box-padding-left;
+}
+
+
+.box-right-left {
+	@extend %box-padding-right;
+	@extend %box-padding-left;
+	@extend %border;
+
+}
+
+.box-wide {
+	@extend %box-padding-top;
+   @extend %box-padding-bottom;
+   @extend %border-right;
+   @extend %box-big-padding-right;
+   @extend %box-big-padding-left;
+	@extend %border;
+}
+
+.box-tall {
+   @extend %box-padding-right;
+	@extend %box-padding-left;	
+   @extend %box-big-padding-top;
+   @extend %box-big-padding-bottom;
+	@extend %border;
+}
+
+
+
+.box-mini
+ {
+	@extend %box-mini-padding-top;
+	@extend %box-mini-padding-right;
+	@extend %box-mini-padding-bottom;
+	@extend %box-mini-padding-left;
+	@extend %border;
+}
+
+.box-mini-top {
+	@extend %box-mini-padding-top;
+	@extend %border;
+}
+
+.box-mini-bottom {
+	@extend %box-mini-padding-bottom;
+	@extend %border;
+
+}
+
+.box-mini-top-bottom {
+	@extend %box-mini-padding-top;
+	@extend %box-mini-padding-bottom;
+	@extend %border;
+	@extend %box-flush-left;
+	@extend %box-flush-right;
+}
+
+.box-mini-right {
+	@extend %box-mini-padding-right;
+	@extend %border;
+}
+
+.box-mini-left {
+	@extend %box-mini-padding-left;
+}
+
+
+.box-mini-right-left {
+	@extend %box-mini-padding-right;
+	@extend %box-mini-padding-left;
+	@extend %border;
+
+}
+
+.box-mini-wide {
+  @extend %box-mini-padding-top;
+  @extend %box-mini-padding-bottom;	
+   @extend %box-padding-right;
+   @extend %box-padding-left;
+   @extend %border;
+  
+}
+
+.box-mini-tall {
+   @extend %box-padding-top;
+   @extend %box-padding-bottom;
+   @extend %box-mini-padding-right;
+	@extend %box-mini-padding-left;
+	@extend %border;
+}
+
+/****/
+
+img.icon {
+	@extend %box-tiny-padding-bottom;
+	@extend %box-tiny-padding-right;
+}
+.box-tiny
+ {
+	@extend %box-tiny-padding-top;
+	@extend %box-tiny-padding-right;
+	@extend %box-tiny-padding-bottom;
+	@extend %box-tiny-padding-left;
+	@extend %border;
+}
+
+.box-tiny-top {
+	@extend %box-tiny-padding-top;
+	@extend %border;
+}
+
+.box-tiny-bottom {
+	@extend %box-tiny-padding-bottom;
+	@extend %border;
+}
+
+.box-tiny-top-bottom {
+	@extend %box-tiny-padding-top;
+	@extend %box-tiny-padding-bottom;
+	@extend %border;
+	@extend %box-flush-left;
+	@extend %box-flush-right;
+}
+
+.box-tiny-right {
+	@extend %box-tiny-padding-right;
+	@extend %border;
+}
+
+.box-tiny-left {
+	@extend %box-tiny-padding-left;
+}
+
+
+.box-tiny-right-left {
+	@extend %box-tiny-padding-right;
+	@extend %box-tiny-padding-left;
+	@extend %border;
+
+}
+
+.box-tiny-wide {
+   @extend %box-tiny-padding-top;
+	@extend %box-tiny-padding-bottom;	
+   @extend %box-mini-padding-right;
+   @extend %box-mini-padding-left;
+	@extend %border;
+}
+
+.box-tiny-tall {
+   @extend %box-tiny-padding-right;
+@extend %box-tiny-padding-left;	
+   @extend %box-mini-padding-top;
+   @extend %box-mini-padding-bottom;
+   @extend %border;
+}
+
+
+/****/
+
+.box-big
+ {
+	@extend %box-big-padding-top;
+	@extend %box-big-padding-right;
+	@extend %box-big-padding-bottom;
+	@extend %box-big-padding-left;
+	@extend %border;
+}
+
+.box-big-top {
+	@extend %box-big-padding-top;
+	@extend %border;
+}
+
+.box-big-bottom {
+	@extend %box-big-padding-bottom;
+	@extend %border;
+}
+
+.box-big-top-bottom {
+	@extend %box-big-padding-top;
+	@extend %box-big-padding-bottom;
+	@extend %border;
+		@extend %box-flush-left;
+	@extend %box-flush-right;
+}
+
+.box-big-right {
+	@extend %box-big-padding-right;
+	@extend %border;
+}
+
+.box-big-left {
+	@extend %box-big-padding-left;
+}
+
+
+.box-big-right-left {
+	@extend %box-big-padding-right;
+	@extend %box-big-padding-left;
+	@extend %border-right;
+	@extend %border-left;
+
+}
+
+
+
+/* 
+   flush 
+   ========================================================================== */
+  .box-flush-left {
+  	padding-left: 0;
+	border-left: none;
+  }
+
+ .box-flush-right {
+  	padding-right: 0;
+	border-right: none;
+  }
+
+ .box-flush-bottom {
+  	padding-bottom: 0;
+	border-bottom: none;
+  }
+
+.box-flush-top {
+  	padding-top: 0;
+	border-top: none;
+  }
+
+
+
+

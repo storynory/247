@@ -1,0 +1,24 @@
+img,
+.img-center img,
+.center {
+		@extend %margin-auto;
+}
+
+
+
+.auto-left {
+	margin-left: auto;
+}
+
+.auto-right {
+	margin-right: auto;
+}
+
+
+.mgn-top-8px  {
+	margin-top: 8px;
+}
+
+.mgn-top-12px  {
+	margin-top: 12px;
+}

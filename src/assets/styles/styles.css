@@ -1,0 +1,96 @@
+
+
+/* 
+   Vars - variables - where we define things
+   ========================================================================== */
+@import '~/assets/styles/vars.css';
+@import "./vars/baselines/16.css";
+@import "./vars/colors-social.css";
+@import "./vars/colors-basic.css";
+@import "./vars/colors-analogious.css";
+
+
+/* 
+   Sil - Silent Classes which can be shared among extends 
+   ========================================================================== */
+@import "./extend/reset.css";
+@import "./fonts/fontesque/stylesheet.css";
+@import "./sil/space.css";
+@import "./sil/widths.css";
+@import "./sil/boxes.css";
+@import "./sil/baseline.css";
+@import "./sil/typography.css";
+@import "./sil/layout.css";
+@import "./sil/translate.css";
+@import "./sil/colors.css";
+/* 
+   Extends  -  where we generate the css
+   ========================================================================== */
+
+/* @import "extend/normalize.css"; */
+ @import "extend/buttons.css";
+@import "extend/type.css";
+@import "extend/grids.css";
+@import "extend/boxes.css";
+@import "extend/menu.css";
+@import "extend/display.css";
+@import "extend/lists.css";
+
+
+/*@import "extend/radius.css";
+@import "extend/buttons.css";
+*/
+
+@import "extend/layout.css";
+@import "extend/widths.css";
+@import "extend/backgrounds.css";
+/*@import "extend/baseline-ratio.css"; */
+@import "extend/colors.css";
+@import "extend/colors-type.css";
+@import "extend/links.css"; 
+
+
+@import "extend/cf.css";
+/* @import "extend/states.css"; */
+@import "extend/overflow.css";
+/* @import "extend/icons.css";  */
+@import "extend/icons-storynory.css";
+@import "extend/shapes.css";
+@import "extend/radius.css";
+@import "extend/transitions.css";
+@import "extend/curser.css";
+@import "extend/position.css";
+@import "extend/placeholders.css";
+@import "extend/pulls.css";
+@import "extend/margins.css";
+@import "extend/forms.css";
+@import "extend/comments.css";
+@import "extend/navi.css";
+@import "extend/states-storynory.css";
+@import "extend/responsive.css";
+/* @import "extend/dev.css";   */
+/*@import "extend/tooltips.css"; */
+
+
+
+
+
+
+.pager nav a, 
+.card {
+  border-radius: 2px;
+  display: inline-block;
+  margin: 1rem;
+  position: relative;
+  padding: 12px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+  transition: all 0.3s cubic-bezier(.25,.8,.25,1);
+  }
+
+
+  .card {
+  	width: 300px
+  }
+
+
+$pink : orange;

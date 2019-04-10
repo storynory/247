@@ -1,0 +1,22 @@
+.banner, .sq, .sky {
+	border: 1px solid red;
+}
+
+
+.banner {
+ width: 780px;
+ height: 90px;
+
+}
+
+
+.sq {
+  width: 336px;
+  height: 200px
+}
+
+.sky {
+  width: 300px;
+  height: 600px
+
+}

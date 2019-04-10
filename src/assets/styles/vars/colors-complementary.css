@@ -1,0 +1,53 @@
+$hue : 179; 
+$comp: calc($hue + 180);
+$split : calc($hue + 90);
+$sat : 35%;
+$moresat: calc($sat + 25%);
+$white : 47%;
+$morewhite : calc($white + 15%);
+$lesswhite : calc($white - 15%);
+
+$maincolor : hsla($hue, $sat, $white, 1);
+
+$maincolor-dark :     color( $maincolor l( - 10%))  ;
+$maincolor-darker :   color( $maincolor l( - 20%))  ;
+$maincolor-light :    color( $maincolor l( + 10%))  ;
+$maincolor-lighter :  color( $maincolor l( + 20%))  ;
+
+
+$altcolor :        	hsla($comp, $sat, $white, 1);
+$altcolor-dark :    color( $altcolor  	l( - 10%))  ;
+$altcolor-darker :  color( $altcolor  	l( - 20%))  ;
+$altcolor-light :   color( $altcolor  	l( +10%))  ;
+$altcolor-lighter : color( $altcolor  	l( + 20%))  ;
+
+$accentcolor :  hsla($split, $moresat, $lesswhite, 1);
+$accentcolor-dark :   color( $accentcolor  		l( - 10%))  ;
+$accentcolor-darker :  color( $accentcolor  	l( - 20%))  ;
+$accentcolor-light :  color( $accentcolor  		l( + 10%))  ;
+$accentcolor-lighter :  color( $accentcolor  	l( + 20%))  ;
+
+
+
+$bluecolor : rgb(059,130,204);
+
+
+$greencolor : rgb(059,130,204);
+
+
+
+
+$redcolor :  rgb(204,69,059);
+
+$graycolor : rgb(121,137,153);
+
+
+$pinkcolor : rgb(255,182,163);
+
+
+$orangecolor : rgb(255,182,163);
+
+
+
+
+

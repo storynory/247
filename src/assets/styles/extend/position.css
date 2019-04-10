@@ -1,0 +1,41 @@
+/*position*/
+
+/* ========================================================================== */
+
+.fixed {
+	position: fixed;
+}
+
+
+.abs {
+	position: absolute;
+}
+
+.rel {
+	position: relative;
+}
+
+
+.pos-right {
+	right: 0px;
+}
+
+.pos-left {
+  left: 0px;
+}
+
+.left-100-pc {
+	left: 100%;
+}
+
+.left-100 {
+	left: 100px;
+}
+
+.pos-top {
+	top: 0px;
+}
+
+.pos-bottom {
+	bottom: 0px;
+}

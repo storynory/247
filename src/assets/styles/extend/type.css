@@ -1,0 +1,217 @@
+/*types */
+
+body {
+   font-family: "Sanchez";
+}
+
+
+
+h1.site-title {
+	font-size: 62px;
+	line-height: 62px;
+	font-weight: bold;
+	letter-spacing: 2px;
+
+}
+
+.fancy,
+.h1,
+h1,h2,h3,h4,h5,.fancy {
+	 font-family: 'Laila', serif;
+
+  @extend %letter-space-wider;
+}
+
+h3.comment-reply-title {
+  font-size: 36px;
+}
+
+
+strong {
+  font-weight: bold;
+}
+
+p,
+li {
+  /* Modern Georgia-based serif stack */
+  /* Traditional Garamond-based serif stack */
+  font-family: "Sanchez", serif;
+}
+.small,
+.p-small,
+.small p {
+  font-size: 16px;
+  line-height: 24px;
+  margin-bottom: 8px;
+}
+
+body {
+  font-size: 18px;
+  line-height: 24px;
+}
+p {
+  margin-bottom: 8px;
+}
+h1,
+h2,
+h3,
+h4,
+h5 {
+  font-weight: 500;
+}
+h3 {
+  font-size: 25px;
+  line-height: 40px;
+}
+.h2,
+h2 {
+  font-size: 28px;
+  line-height: 36px;
+}
+h1 {
+  font-size: 32px;
+  line-height: 44px;
+ 
+}
+
+h1.page-title {
+  font-size: 52px;
+}
+
+
+
+h1,
+h2,
+h3,
+h4 {
+  letter-spacing: 3px;
+}
+h4 {
+  font-size: 20px;
+  line-height: 28px;
+  padding-bottom: 8px;
+}
+ul.site-title {
+  max-width: 360px;
+}
+h1.site-title {
+  margin: 0;
+  padding: 0;
+  line-height: 1;
+  text-shadow: -1px -1px 0 #5a6886, 1px -1px 0 #5a6886, -1px 1px 0 #5a6886, 1px 1px 0 #5a6886;
+  -webkit-font-smoothing: antialiased;
+}
+h1 a, 
+h2.title-cat a {
+  text-decoration: none;
+}
+h2 {
+  line-height: 40px;
+  padding-bottom: 8px;
+}
+blockquote {
+  position: relative;
+}
+blockquote p:before,
+blockquote p:after {
+  display: inline;
+  font-size: 2em;
+  position: relative;
+  top: 0.25em;
+  padding: 0 0.2em;
+}
+blockquote p:before {
+  content: " \201C";
+  content: open-quote;
+}
+blockquote p:after {
+  content: no-close-quote;
+}
+blockquote p:last-of-type:after {
+  content: "\201D";
+  content: close-quote;
+}
+.cite,
+blockquote.center {
+  line-height: 32px;
+  padding: 16px 32px;
+  max-width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 23px;
+  margin-bottom: 23px;
+  border-top: 1px solid gray;
+  border-bottom: 1px solid gray;
+  text-align: center;
+}
+cite {
+  font-style: italic;
+}
+cite:before {
+  content: "- ";
+  float: left;
+  padding-right: 4px;
+}
+/*
+   Links
+   ========================================================================== */
+h2 a,
+h4 a {
+  text-decoration: none;
+}
+
+
+.a-trans,
+.a-trans:hover {
+  color: #222;
+  text-decoration: none;
+}
+
+
+.p-large {
+	font-size: 21px;
+  line-height: 28px;
+}
+
+.line-large {
+   line-height: 28px;
+}
+
+.h1,h1 {
+	font-weight: normal;
+}
+
+
+
+.txt-left {
+	text-align: left
+}  
+
+.txt-right {
+	text-align: right
+}
+
+.txt-center  {
+	text-align: center;
+}
+
+
+.txt-normal {
+	font-weight: normal;
+}
+
+
+ 
+
+.it {
+	font-style: italic;
+}
+
+
+.line-one {
+	line-height: 1;
+}
+
+.v-top {
+  vertical-align: text-top;
+}

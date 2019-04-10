@@ -1,0 +1,33 @@
+// editor
+
+$icon-attach: ../img/material/edit/ic_attach_file_black_36px.svg;
+$icon-center: ../img/material/edit/ic_format_align_center_black_36px.svg;
+$icon-justify: ../img/material/edit/ic_format_align_justify_black_36px.svg;
+$icon-justify-left: ../img/material/edit/ic_format_align_left_black_36px.svg;
+$icon-justify-right: ../img/material/edit/ic_format_align_right_black_36px.svg;
+$icon-bold: ../img/material/edit/ic_format_bold_black_36px.svg;
+$icon-clear: ../img/material/edit/ic_format_clear_black_36px.svg;
+$icon-color: ../img/material/edit/ic_format_color_fill_black_36px.svg;
+$icon-color-reset : ../img/material/edit/ic_format_color_reset_black_36px.svg;
+$icon-color-text: ../img/material/edit/ic_format_color_text_black_36px.svg;
+$icon-indent-decrease: ../img/material/edit/ic_format_indent_decrease_black_36px.svg;
+$icon-indent-increase: ../img/material/edit/ic_format_indent_increase_black_36px.svg;
+$icon-italic: ../img/material/edit/ic_format_italic_black_36px.svg;
+$icon-space: ../img/material/edit/ic_format_line_spacing_black_36px.svg;
+$icon-bullet : ../img/material/edit/ic_format_list_bulleted_black_36px.svg;
+$icon-quote: ../img/material/edit/ic_format_quote_black_36px.svg;
+$icon-insert-file: ../img/material/edit/ic_insert_drive_file_black_36px.svg;
+$icon-link: ../img/material/edit/ic_insert_link_black_36px.svg;
+$icon-photo: ../img/material/edit/ic_insert_photo_black_36px.svg;
+$icon-edit: ../img/material/edit/ic_mode_edit_black_36px.svg;
+$icon-public: ../img/material/edit/ic_publish_black_36px.svg;
+$icon-strike: ../img/material/edit/ic_strikethrough_s_black_36px.svg;
+$icon-text-fields: ../img/material/edit/ic_text_fields_black_36px.svg;
+$icon-title: ../img/material/edit/ic_title_black_36px.svg;
+
+// content
+
+$icon-archive: ic_archive_black_36px.svg;
+$icon-clear: ic_clear_black_36px.svg;
+$icon-copy: ic_content_copy_black_36px.svg;
+$icon-cut: ic_content_cut_black_36px.svg;

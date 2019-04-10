@@ -1,0 +1,27 @@
+%font-thick {
+	font-weight: 500
+}
+
+%font-bold {
+	font-weight: 700
+}
+
+%letter-space-wider {
+	letter-spacing: 1px;
+}
+
+%white-space-nowrap {
+ 	white-space: nowrap;
+}
+
+%vertical-align-middle {
+	vertical-align: middle;
+}
+
+%text-decoration-none {
+	text-decoration: none;
+}
+
+%list-style-none {
+	list-style: none;
+}

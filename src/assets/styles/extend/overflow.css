@@ -1,0 +1,12 @@
+.ov-hidden,
+.ov-hid {
+	@extend %overflow-hidden
+}
+
+.ov-auto {
+  @extend %overflow-auto;
+}
+
+.ov-vis {
+  @extend %overflow-visible
+}

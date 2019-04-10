@@ -1,0 +1,7 @@
+a {
+	@extend  %color-accent-dark;
+}
+
+a:hover {
+	@extend  %color-accent-lighter;
+}

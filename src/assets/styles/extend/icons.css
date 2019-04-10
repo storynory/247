@@ -1,0 +1,52 @@
+/*     icons          */
+
+.ic {
+	display: inline-block;
+	width: 28px;
+	height: 28px;
+	background-size: 100% 100%;	
+  vertical-align: middle;
+  cursor: pointer;
+  
+
+}
+
+$content : ../img/material/content;
+
+$edit : ../img/material/edit;
+
+$moon :  ../img/moon;
+
+$material : ../img/material/24;
+
+.ic-fill {
+  fill: #63dec5;
+  
+}
+
+.ic-stroke {
+  stroke: #63dec5;
+}
+
+
+
+.ic-fb {
+  fill: $facebook;
+}
+
+.ic-twit {
+  fill: $twitter;
+}
+
+.ic-rss {
+    fill: #FF9900;
+}
+
+
+.ic-play:before {
+  content: "\25B7";
+}
+
+.ic-pause:before {
+ content: "II";
+}

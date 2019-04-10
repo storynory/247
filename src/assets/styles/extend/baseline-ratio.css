@@ -1,0 +1,65 @@
+/* baseline-ratioi.css */
+
+.p,
+body {
+	@extend %fontsize;
+    @extend %line1;
+
+}
+
+.small {
+	font-size: calc(  $fontsize / 4  * 3 );
+	line-height: calc( $unit * 6 );
+}
+
+p {
+	 margin-bottom: $line;
+}
+
+h6 {
+   @extend %fontsize;
+}
+
+h5 {
+	@extend %fontsize;
+}
+
+h4 {
+	@extend %fontsize;
+	
+}
+
+h3, .h3 {
+	font-size: calc( $p * $small-ratio );
+	@extend $line1;
+}
+
+
+h2 {
+	@extend %fontsize1;
+	@extend $line2;
+
+}
+
+h1 {
+	@extend %fontsize3;
+	@extend $line4;
+
+}
+
+
+.h1 {
+@extend %fontsize2;
+@extend $line2;
+}
+
+.h2 {
+  @extend %fontsize1;
+ @extend $line2;
+}
+
+h1.h3 {
+    @extend %fontsize2;
+    @extend $line3;
+
+}

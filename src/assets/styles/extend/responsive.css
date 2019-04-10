@@ -1,0 +1,165 @@
+/*responsive */
+
+img {
+max-width:100% ;
+    height:auto;
+    display:block;
+ }   
+
+
+.txt-center-r {
+	text-align: left;
+}
+
+.blk-p,
+.blk-t {
+	display: none;
+}
+
+
+.view-t,
+.view-sm-t,
+.view-p {
+	opacity: 0;
+}
+
+.hide-p {
+   opacity: 1;
+}
+
+.icon-bertie {
+	display: none;
+}
+
+
+.gut-m {
+	padding-right: calc ( $line / 2 );
+		border-right: 1px solid transparent;
+}
+
+
+.center-m {
+	@extend %margin-auto;
+}
+
+@media screen and (min-width: $tab) {
+
+.gut-m {
+	padding-right: 0;
+	border-right: 0;
+}
+
+
+
+.txt-center-r {
+	text-align: center;
+}
+
+
+.pull-left-62-r {
+	margin-left: -62px;
+}
+
+.block-t {
+	display: block;
+}
+
+
+.view-t {
+	opacity: 1;
+}
+
+
+}
+
+
+
+
+
+
+@media screen and (min-width: $page) {
+  .view-p {
+  	opacity: 1;
+  }
+
+ .hide-p {
+  	opacity: 0;
+  }
+
+.vanish-p {
+	display: none;
+}
+
+  .blk-p {
+	display: block;
+}
+
+}
+
+	
+@media screen and (min-width: $large) {
+   .center-m { margin : 0;}
+
+}
+
+
+
+@media (max-width: $smalltab) {
+
+h1.site-title {
+	font-size: 42px;
+	line-height: 1;
+	font-weight: bold;
+	vertical-align: top;
+	margin-top: -2px;
+
+}
+
+
+}
+
+@media (min-width: $smalltab) {
+
+
+	.icon-bertie {
+	display: inline-block;
+}
+
+
+
+	.box-r {
+		padding: calc($line / 4);
+		border: none;
+
+	}
+
+	.right-r,
+	.left-r {
+		float: none;
+		margin: auto;
+		padding-bottom: calc($line / 4);
+	}
+	
+
+.view-sm-t {
+	display: block;
+}
+
+	.box-r {
+		 padding: calc($line / 2);
+	   	
+
+	}
+
+	.left-r {
+		float: left;
+	}
+
+    .right-r {
+		float: right;
+	}
+
+}
+
+
+

@@ -1,0 +1,52 @@
+/*tooltips */
+
+
+/**
+ * Wenk- Lightweight pure CSS tooltip for the greater good
+ * @version v1.0.0
+ * (c) 2016 Tiaan du Plessis @mightyCrow |
+ * @link 
+ * @license MIT
+
+Main trick is  content: attr(data-tip);
+Can use classes 
+.tip should be position relative
+.tip:after position absolute.
+translate it out for nice animation and change visibility
+Does hover work on touch sreen?
+
+ */
+
+.tip {
+    position: relative;
+}
+
+.tip:after {
+  @extend %position-absolute;
+  content: attr(data-tip);
+opacity: 0
+
+}
+
+.tip:hover {
+    overflow: visible
+}
+
+.tip:hover:after  {
+    display: block;
+    opacity: 1;
+    visibility: visible;
+      transition: all .3s;
+    bottom: 100%;
+    left: 150%;
+    transform: translate(-50%);
+    width: 200px;
+    padding: 0.75em;
+    background-color: black;
+    color: white;
+}
+
+/* <span class="tip" data-tip="I'm a tip" >tip me</span> *
+
+
+

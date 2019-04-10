@@ -1,0 +1,11 @@
+.pull-left-12px {
+	margin-left: -12px;
+}
+
+@media screen and (min-width: $tab) {
+
+h1.pull-left {
+	margin-left: -40px;
+}
+
+}

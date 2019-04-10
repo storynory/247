@@ -7,8 +7,31 @@
     "explore": "gridsome explore"
   },
   "dependencies": {
+    "@fullhuman/postcss-purgecss": "^1.1.0",
     "@gridsome/source-filesystem": "^0.3.0",
     "@gridsome/transformer-remark": "^0.2.0",
-    "gridsome": "^0.5.0"
+    "fs": "0.0.1-security",
+    "gridsome": "^0.5.0",
+    "purgecss": "^1.1.0",
+    "tailwindcss": "^0.7.4"
+  },
+  "devDependencies": {
+    "autoprefixer": "latest",
+    "postcss-calc": "latest",
+    "postcss-color-function": "latest",
+    "postcss-extend": "latest",
+    "postcss-font-magician": "latest",
+    "postcss-import": "^12.0.1",
+    "postcss-inline-svg": "latest",
+    "postcss-loader": "^3.0.0",
+    "postcss-mixins": "latest",
+    "postcss-nesting": "latest",
+    "postcss-partial-import": "latest",
+    "postcss-pxtorem": "latest",
+    "postcss-simple-vars": "^5.0.2",
+    "postcss-svg": "^3.0.0",
+    "postcss-svgo": "latest",
+    "style-resources-loader": "^1.2.1",
+    "typeface-comfortaa": "0.0.72"
   }
 }

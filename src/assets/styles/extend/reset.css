@@ -1,0 +1,31 @@
+/*reset*/
+
+
+* {
+	margin : 0;
+	padding: 0;
+	 border: 0;
+	outline: 0;
+}
+
+
+/* apply a natural box layout model to all elements, but allowing components to change */
+
+html {
+  box-sizing: border-box;
+}
+
+.content-box {
+	box-sizing: content-box;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+
+table {
+	font-weight: normal
+
+}
+

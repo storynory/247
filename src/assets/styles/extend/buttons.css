@@ -1,0 +1,28 @@
+/*buttons*/
+.btn {
+  @extend %overflow-auto;
+  @extend %display-inline-block;
+ @extend %white-space-nowrap;
+  @extend %vertical-align-middle;
+  @extend %text-decoration-none;
+  line-height: normal; /* this is important for averting bugs - put desired line-height on inner most item eg span or b */ 
+  cursor: pointer;
+  user-select: none;
+}
+
+
+.button:hover, .button:active, .button:focus {
+ outline: 0;
+}
+
+.button::-moz-focus-inner {
+ @extend %padding-zero; 
+ border: 0;
+}
+
+
+
+a.btn {
+    @extend %text-decoration-none;
+}
+

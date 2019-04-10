@@ -1,0 +1,91 @@
+
+
+
+/*fluid column */
+
+@media (min-width: $smalltab) {
+  .container {
+      width: 100%;
+      float: left;
+      margin-right: -300px
+  }
+
+
+  .container-content {
+       margin-right: 300px;
+
+  }
+
+  .container-aside {
+    width: 300px;
+}
+
+}
+
+
+
+/*vertical centering */
+
+ .vcenter {   /* should go inside position relative */
+	@extend %position-relative;
+	top: 50%;
+  -webkit-transform: translateY(-50%);
+}
+
+/* also see display table and table cell under display v centering */
+
+.sp-top-50 {
+    margin-top: calc( $unit / 4);
+}
+
+
+.hcenter {
+	margin : auto;
+}
+
+
+
+.stretchy {
+  @extend %overflow-hidden;	
+  @extend %display-block;
+  @extend %float-none;
+}
+
+img.icon,
+.left {
+  @extend %float-left;
+}
+
+
+.right {
+	@extend %float-right;
+}
+
+.abs {
+@extend %position-absolute ;
+
+}
+
+.topleft {
+  top: 0;
+  left: 0;
+}
+
+
+.rel,.relative {
+	@extend %position-relative;
+}
+
+
+
+.inl-block {
+   @extend %display-inline-block;
+}
+
+.inl {
+   @extend %display-inline;
+}
+
+
+
+

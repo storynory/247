@@ -1,0 +1,368 @@
+
+
+/* 
+@import "../sil/colors.css";
+You have to use different class names from the silent selectors */
+
+.bk-body {
+	@extend %background-black  ;
+}
+
+
+.bk-main {
+	@extend %background-main;
+}
+
+.bk-main-light {
+	@extend %background-main-light;
+}
+
+.bk-main-lighter {
+	@extend %background-main-lighter;
+}
+
+
+.bk-main-dark {
+	@extend %background-main-dark;
+}
+
+.bk-main-darker {
+	@extend %background-main-darker;
+}
+
+
+.bord-main {
+	@extend %border-main;
+}
+
+.bord-main-light {
+	@extend %border-main-light;
+}
+
+.bord-main-lighter {
+	@extend %border-main-lighter;
+}
+
+.bord-main-dark {
+	@extend %border-main-dark;
+}
+
+.bord-main-darker {
+	@extend %border-main-darker;
+}
+
+
+.clr-main {
+	@extend %color-main
+}
+
+.clr-main-light {
+	@extend %color-main-light
+}
+
+.clr-main-lighter {
+	@extend %color-main-lighter;
+}
+
+.clr-main-dark {
+	@extend %color-main-dark
+}
+
+.clr-main-darker {
+	@extend %color-main-darker
+}
+
+
+
+/* 
+   Alt Colors
+   ========================================================================== */
+
+
+
+
+.bk-alt {
+	@extend %background-alt
+}
+
+
+.bk-alt-light {
+	@extend %background-alt-light;
+}
+
+
+
+.bk-alt-lighter {
+	@extend %background-alt-lighter;
+}
+
+.bk-alt-dark {
+	@extend %background-alt-dark
+}
+.bk-alt-darker {
+	@extend %background-alt-darker
+}
+
+
+.bord-alt {
+		@extend %border-alt-dark
+}
+
+.bord-alt-light {
+		@extend %border-alt-dark
+}
+
+.bord-alt-lighter {
+		@extend %border-alt-dark
+}
+
+.bord-alt-dark {
+	@extend %border-alt-dark
+}
+
+.bord-alt-darker {
+	@extend %border-alt-dark
+}
+
+
+
+.clr-alt {
+	@extend %color-alt
+}
+
+
+.clr-alt-light {
+	@extend %color-alt-dark
+}
+
+.clr-alt-lighter {
+	@extend %color-alt-dark
+}
+
+
+.clr-alt-dark {
+	@extend %color-alt-dark
+}
+
+.clr-alt-darker {
+	@extend %color-alt-dark
+}
+
+
+
+/*  Accent Colors
+   ========================================================================== */
+
+
+
+.bk-accent {
+	@extend %background-accent 
+}
+
+.bk-accent-light {
+	@extend %background-accent-light
+}
+
+.bk-accent-lighter {
+	@extend %background-accent-lighter;
+}
+
+
+.bk-accent-dark {
+	@extend %background-accent-dark
+}
+
+.bk-accent-darker {
+	@extend %background-accent-darker
+}
+
+.bord-accent {
+	@extend  %border-accent
+}
+
+.bord-accent-light {
+	@extend   %border-accent-light
+}
+
+.bord-accent-lighter {
+	@extend   %border-accent-light
+}
+
+.bord-accent-dark {
+	@extend  %border-accent-dark 
+}
+
+.bord-accent-darker {
+	@extend  %border-accent-dark 
+}
+
+.clr-accent {
+	@extend %color-accent
+}
+
+.clr-accent-light {
+	@extend %color-accent-light
+}
+
+.clr-accent-lighter {
+	@extend %color-accent-light
+}
+
+
+.clr-accent-dark {
+	@extend  %color-accent-dark 
+}
+
+
+.clr-accent-darker {
+	@extend  %color-accent-dark 
+}
+
+/*  Gray Colors */
+  
+
+.bk-gray {
+	@extend %background-gray  ;
+}
+
+.bk-gray-light {
+	@extend  %background-gray-light;
+}
+
+.bk-gray-lighter {
+	@extend  %background-gray-lighter;
+}
+
+
+.bk-gray-dark {
+	@extend  %background-gray-dark ;
+}
+.bk-gray-darker {
+	@extend  %background-gray-darker ;
+}
+
+.bord-gray {
+	@extend %border-gray;
+}
+
+.bord-gray-light {
+	@extend  %border-gray-light;
+}
+
+.bord-gray-dark {
+	@extend %border-gray-dark ;
+}
+
+.clr-gray {
+	@extend %color-gray ;
+}
+
+.clr-gray-light {
+	@extend %color-gray-light;
+}
+
+.clr-gray-dark {
+	@extend %color-gray-dark;
+}
+
+ 
+/*  black Colors */
+  
+
+.bk-black {
+	@extend %background-black;  ;
+}
+
+.bk-black-light {
+	@extend  %background-black-light;
+}
+
+.bk-black-lighter {
+	@extend  %background-black-lighter;
+}
+
+
+.bk-black-dark {
+	@extend  %background-black-dark ;
+}
+.bk-black-darker {
+	@extend  %background-black-darker ;
+}
+
+.bord-black {
+	@extend %border-black;
+}
+
+.bord-black-light {
+	@extend  %border-black-light;
+}
+
+.bord-black-dark {
+	@extend %border-black-dark ;
+}
+
+.clr-black {
+	@extend %color-black ;
+}
+
+.clr-black-light {
+	@extend %color-black-light;
+}
+
+.clr-black-dark {
+	@extend %color-black-dark;
+}
+
+
+
+
+/*  white Colors
+   ========================================================================== */
+
+.clr-white {
+	@extend %color-white;
+}
+
+.bk-white {
+	@extend %background-white;
+}
+
+.bk-white-dark {
+	@extend %background-white-dark;
+}
+
+
+.bk-white-darker {
+	@extend %background-white-darker;
+}
+
+
+
+.bord-bottom {
+	@extend %border-top-transparent;
+	@extend %border-left-transparent;
+	@extend %border-right-transparent;
+}
+
+
+.bord-open-top {
+	@extend %border-top-transparent;
+}
+	
+
+/*social */
+
+.clr-twitter {
+	color: @extend %color-social-twitter
+}
+
+
+.clr-fb {
+	color: @extend %color-social-facebook
+}
+
+.bk-paypal {
+	background-color: #009CDE
+}
+
+

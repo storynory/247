@@ -1,0 +1,61 @@
+$hue : 213; 
+$comp: calc($hue + 190);
+$split : calc($hue + 80);
+$sat : 47%;
+$graysat : 5%;
+$moresat: calc($sat + 15%);
+$lesssat: calc($sat - 5%);
+$white : 41%;
+$morewhite : calc($white + 10%);
+$lesswhite : calc($white - 15%);
+$muchwhite : 65%;
+$blackwhite : 1%;
+
+$maincolor : hsla($hue, $sat, $white, 1);
+
+$maincolor-dark :     color( $maincolor l( - 10%))  ;
+$maincolor-darker :   color( $maincolor l( - 20%))  ;
+$maincolor-light :    color( $maincolor l( + 10%))  ;
+$maincolor-lighter :  color( $maincolor l( + 20%))  ;
+
+
+$altcolor :        	hsla($comp, $sat, $white, 1);
+$altcolor-dark :    color( $altcolor  	l( - 10%))  ;
+$altcolor-darker :  color( $altcolor  	l( - 20%))  ;
+$altcolor-light :   color( $altcolor  	l( +10%))  ;
+$altcolor-lighter : color( $altcolor  	l( + 20%))  ;
+
+$accentcolor :  hsla(30, $moresat, $white, 1);
+$accentcolor-dark :   color( $accentcolor  		l( - 10%))  ;
+$accentcolor-darker :  color( $accentcolor  	l( - 20%))  ;
+$accentcolor-light :  color( $accentcolor  		l( + 10%))  ;
+$accentcolor-lighter :  color( $accentcolor  	l( + 20%))  ;
+
+
+$gray :  hsla($hue, $graysat, $muchwhite, 1);
+$gray-dark :   color( $gray  		l( - 10%))  ;
+$gray-darker :  color( $gray  	l( - 20%))  ;
+$gray-light :  color( $gray 		l( + 10%))  ;
+$gray-lighter :  color( $gray  	l( + 15%))  ;
+
+
+$black :  hsla($hue, $lesssat, $blackwhite, 1);
+$black-dark :   color( $black  		l( + 7%))  ;
+$black-darker :  color( $black  	l( + 10%))  ;
+$black-light :  color( $black 		l( + 13%))  ;
+$black-lighter :  color( $black  	l( + 16%))  ;
+
+
+$pink:  hsla(355, $sat, $white, 1);
+
+$orange : hsla(30, $sat, $white, 1);
+$gold : hsla(45, $sat, $white, 1);
+$yellow :  hsla(50, $sat, $white, 1);
+$green :  hsla(100, $sat, $white, 1);
+$lightblue:  hsla(102, $sat, $white, 1);
+$green:  hsla(100, $sat, $white, 1);
+$teal:  hsla(160, $sat, $white, 1);
+$sky :  hsla(185, $sat, $white, 1);
+$blue :  hsla(230, $sat, $white, 1);
+$purple:  hsla(300, $sat, $white, 1);
+$red  :  hsla(355, $sat, $white, 1);

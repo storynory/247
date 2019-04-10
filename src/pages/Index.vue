@@ -1,25 +1,17 @@
 <template>
-  <Layout class="home">
-    <ul>
-      <li v-for="{ node } in $page.allBlogPost.edges" :key="node._id">
-        <router-link :to="node.path">
-          <h2 v-html="node.title"/>
-        </router-link>
-        <span v-html="node.date"/>
-        <div v-html="node.description"/>
+  <Layout>
+    <ul class="list-reset p-4">
+      <li class="list-reset" v-for="{ node } in $page.allBlogPost.edges" :key="node.id">
+        <Post :post="node" />
       </li>
     </ul>
 
-     <Pager :info="$page.allBlogPost.pageInfo"/>
-      <Card />
+    <Pager :info="$page.allBlogPost.pageInfo"/>
   </Layout>
-
-
-
 </template>
 
-
 <page-query>
+# Write your querypo or mutation her
   query Home ($page: Int) {
     allBlogPost (perPage: 3, page: $page) @paginate {
     totalCount
@@ -31,8 +23,11 @@
     }
     edges {
       node {
+        id
         title
         path
+        excerpt
+        image (width: 600, height: 400, quality: 90)
       }
     }
   }
@@ -42,55 +37,31 @@
 
 
 
-
-
-
-
 <script>
+import  Post   from '~/components/Post.vue';
 import { Pager } from "gridsome";
-import Card from '~/components/Card.vue'
+
+
 export default {
   components: {
-    Pager,
-     Card
+    Post,
+    Pager
   }
 };
 </script>
 
-<style scoped
+<style >
+$pink : blue;
 
-ul nav a {
-  padding:
+.pink {
+  color: $pink;
 }
 
-  .home >>> .heading {
-    margin-bottom: 70px;
-  }
+</style>
 
-  ul {
-    list-style: none;
-    padding: 0;
-  }
 
-  ul li {
-    margin-bottom: 20px;
-  }
 
-  ul li a h2 {
-    margin-bottom: 10px;
-  }
+<style scoped>
 
-  span {
-    font-size: 80%;
-    padding: 0;
-  }
 
-  ul li p:first-child {
-    margin-top: 3px;
-  }
-
-  ul li p {
-    margin: 0;
-    line-height: 1.5;
-  }
 </style>

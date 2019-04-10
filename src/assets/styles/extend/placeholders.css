@@ -1,0 +1,14 @@
+.ad-336 {
+	display: block;
+	width: 336px;
+	height: 280px;
+	
+	
+}
+
+.ad-300 {
+	display: block;
+	width: 300px;
+	height: 250px;
+	content: "ad-336"
+}

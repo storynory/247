@@ -1,0 +1,380 @@
+@font-face {
+  font-family: 'icomoon';
+  src: url('$folder/public/fonts/icons/icomoon.eot?fwpirh');
+  src: url('$folder/public/fonts/icons/icomoon.eot?#iefixfwpirh') format('embedded-opentype'), url('$folder/public/css/fonts/icons/icomoon.woff?fwpirh') format('woff'), url('$folder/public/css/fonts/icons/icomoon.ttf?fwpirh') format('truetype'),
+ url('$folder/public/css/fonts/icons/icomoon.svg?fwpirh#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+.icon,
+[class^="icon-"],
+[class*=" icon-"] {
+  font-family: 'icomoon';
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  margin-right: 8px;
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  border-radius: $radius;
+}
+
+.ic {
+    display: inline-block;
+    width: 32px;
+    height: 32px;
+    background-size: 100% 100%;
+    vertical-align: middle;
+    cursor: pointer;
+    font-size: 32px;
+    line-height: 1;
+  }
+
+ .icon-bertie {
+    width: 60px;
+    height: 48px;
+    background-image: url($folder/img/bertie-200.png);
+    display: inline-block;
+    vertical-align: top;
+
+}
+
+ .icon-bertie-xmas {
+    width: 60px;
+    height: 48px;
+    background-image: url($folder/img/christmas_bertie.png);
+    display: inline-block;
+    vertical-align: top;
+
+}
+
+
+
+.icon-home:before {
+  content: "\e600";
+}
+.icon-podcast:before {
+  content: "\e065";
+}
+.icon-credit:before {
+  content: "\e0d6";
+}
+.icon-mail-send:before {
+  content: "\e0ed";
+}
+.icon-tree:before {
+  content: "\e22f";
+}
+.icon-earth:before {
+  content: "\e2c7";
+}
+.icon-info:before {
+  content: "\e363";
+}
+.icon-close:before {
+  content: "\e36c";
+}
+.high.icon-volume:before,
+.icon-volume-high:before {
+  content: "\e38f";
+}
+.medium.icon-volume:before,
+.icon-volume-medium:before {
+  content: "\e390";
+}
+.low.icon-volume:before,
+.icon-volume-low:before {
+  content: "\e391";
+}
+.quiet.icon-volume:before,
+.icon-volume-mute:before {
+  content: "\e392";
+}
+.mute.icon-volume:before,
+.icon-volume-mute2:before {
+  content: "\e3a3";
+}
+.icon-instagram:before {
+  content: "\e49c";
+}
+.icon-pinterest:before {
+  content: "\e4d6";
+}
+.icon-paypal:before {
+  content: "\e4dd";
+}
+.icon-pencil:before {
+  content: "\e012";
+}
+.icon-palette:before {
+  content: "\e022";
+}
+.icon-music:before {
+  content: "\e03b";
+}
+.icon-guitar:before {
+  content: "\e03f";
+}
+.icon-headphones:before {
+  content: "\e040";
+}
+.icon-bullhorn:before {
+  content: "\e05f";
+}
+.icon-mic:before {
+  content: "\e06c";
+}
+.icon-book:before {
+  content: "\e070";
+}
+.icon-book2:before {
+  content: "\e071";
+}
+.icon-graduation:before {
+  content: "\e076";
+}
+.icon-coins:before {
+  content: "\e0d4";
+}
+.icon-support:before {
+  content: "\e0d9";
+}
+.icon-phone:before {
+  content: "\e0da";
+}
+.icon-address-book:before {
+  content: "\e0e8";
+}
+.icon-direction:before {
+  content: "\e0fe";
+}
+.icon-print:before {
+  content: "\e117";
+}
+.icon-bubble:before {
+  content: "\e153";
+}
+.icon-users:before {
+  content: "\e186";
+}
+.icon-tshirt:before {
+  content: "\e19d";
+}
+.icon-quotes-left:before {
+  content: "\e19f";
+}
+.icon-quotes-right:before {
+  content: "\e1a0";
+}
+.icon-spinner:before {
+  content: "\e1a7";
+}
+.icon-spinner2:before {
+  content: "\e1ae";
+}
+.icon-spinner3:before {
+  content: "\e1af";
+}
+.icon-search:before {
+  content: "\e1be";
+}
+.icon-wrench:before {
+  content: "\e1d9";
+}
+.icon-cogs:before {
+  content: "\e1e0";
+}
+.icon-wand:before {
+  content: "\e1ed";
+}
+.icon-balloon:before {
+  content: "\e212";
+}
+.icon-medal:before {
+  content: "\e217";
+}
+.icon-lamp:before {
+  content: "\e24c";
+}
+.icon-puzzle:before {
+  content: "\e270";
+}
+.icon-sunglasses:before {
+  content: "\e275";
+}
+.icon-menu:before {
+  content: "\e2ac";
+}
+.icon-download:before {
+  content: "\e2b8";
+}
+.icon-bookmark:before {
+  content: "\e2e3";
+}
+.icon-heart:before {
+  content: "\e304";
+}
+.icon-happy:before {
+  content: "\e31e";
+}
+.icon-happy2:before {
+  content: "\e31f";
+}
+.icon-smiley:before {
+  content: "\e320";
+}
+.icon-wink:before {
+  content: "\e326";
+}
+.icon-cool:before {
+  content: "\e32a";
+}
+.icon-cool2:before {
+  content: "\e32b";
+}
+.icon-question:before {
+  content: "\e35d";
+}
+.icon-close2:before {
+  content: "\e36e";
+}
+.icon-play:before {
+  content: "\e385";
+   width: 28px;
+    height: 28px;
+
+}
+
+
+.ic-pause:before {
+  content: "\e386";
+}
+.icon-backward:before {
+  content: "\e388";
+}
+.icon-forward:before {
+  content: "\e389";
+}
+.icon-loop:before {
+  content: "\e3a8";
+}
+.drop.active .icon-open-close:before,
+.icon-arrow-right:before {
+  content: "\e3b1";
+}
+.drop .icon-open-close:before,
+.icon-arrow-down:before {
+  content: "\e3b2";
+}
+.icon-arrow-left:before {
+  content: "\e3b3";
+}
+.icon-checkbox-checked:before {
+  content: "\e435";
+}
+.icon-checkbox-unchecked:before {
+  content: "\e436";
+}
+.icon-radio-checked:before {
+  content: "\e438";
+}
+.icon-radio-unchecked:before {
+  content: "\e439";
+}
+.icon-share:before {
+  content: "\e48c";
+}
+.icon-googleplus:before {
+  content: "\e493";
+}
+.icon-facebook:before {
+  content: "\e498";
+}
+.icon-twitter:before {
+  content: "\e49d";
+}
+.icon-feed:before {
+  content: "\e4a0";
+}
+.icon-android:before {
+  content: "\e4c8";
+}
+.icon-windows:before {
+  content: "\e4c9";
+}
+.icon-file-pdf:before {
+  content: "\e4e2";
+}
+
+.social-icons,
+.social-icons-horiz {
+  overflow: hidden;
+  padding: 0;
+  vertical-align: middle;
+}
+
+
+.social-icons .icon {
+  color: white;
+  float: none;
+  display: block;
+  font-size: 36px;
+  line-height: 1;
+  margin-right: 16px;
+margin-top: 8px;
+  
+}
+
+.icon-large {
+  font-size: 48px;
+}
+
+.social-icons .icon {
+  color: white;
+  width: 48px;
+  line-height: 48px;
+  margin-bottom: 16px;
+}
+.icon-facebook {
+  background: #3D5A99;
+}
+.icon-pinterest {
+  background: #F61718;
+}
+.icon-mail-send {
+  background: #69a366;
+}
+ .icon-twitter {
+  background: #55ACEE;
+}
+.icon-googleplus {
+  background: #D34836;
+}
+.icon-feed {
+  background: red;
+}
+.icon-podcast {
+  background: #5a6886;
+}
+
+.icon-instagram {
+  background:#f77737;
+}
+
+
+.social-icons-horiz a {
+  padding-right: 24px;
+}
+.rss {
+  color: red;
+}
+.itunes {
+  color: #5a6886;
+}
+
+
+

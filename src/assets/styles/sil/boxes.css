@@ -1,0 +1,133 @@
+
+%border {
+	  border: $border solid transparent;
+}
+
+%border-top {
+	  border-top: $border solid transparent;
+}
+
+
+%border-right {
+	  border-right: $border solid transparent;
+}
+
+%border-bottom {
+	  border-bottom: $border solid transparent;
+}
+
+
+%border-left {
+	  border-left: $border solid transparent;
+}
+
+%box-padding-top {
+	padding-top: calc( $line - $border);
+	
+}
+
+%box-padding-right {
+	padding-right: calc( $line - $border);
+	
+}
+
+
+%box-padding-bottom {
+	padding-bottom: calc( $line - $border);
+	
+}
+
+
+%box-padding-left {
+	padding-left: calc( $line - $border);
+	
+}
+
+
+
+%box-mini-padding-top {
+	padding-top: calc( ( $line / 2 ) - $border);
+	
+}
+
+%box-mini-padding-right {
+	padding-right: calc( ( $line / 2 ) - $border);
+	
+}
+
+
+%box-mini-padding-bottom {
+	padding-bottom: calc( ( $line / 2 ) - $border);
+	
+}
+
+
+%box-mini-padding-left {
+	padding-left: calc( ( $line / 2 ) - $border);
+	
+}
+
+
+
+%box-tiny-padding-top {
+	padding-top: calc( ( $line / 4 ) - $border);
+	
+}
+
+%box-tiny-padding-right {
+	padding-right: calc( ( $line / 4 ) - $border);
+	
+}
+
+
+%box-tiny-padding-bottom {
+	padding-bottom: calc( ( $line / 4 ) - $border);
+	
+}
+
+
+%box-tiny-padding-left {
+	padding-left: calc( ( $line / 4 ) - $border);
+	
+}
+
+/********/
+
+%box-big-padding-top {
+	padding-top: calc( ( $line * 2 ) - $border);
+	
+}
+
+%box-big-padding-right {
+	padding-right: calc( ( $line * 2 ) - $border);
+	
+}
+
+
+%box-big-padding-bottom {
+	padding-bottom: calc( ( $line * 2 ) - $border);
+	
+}
+
+
+%box-big-padding-left {
+	padding-left: calc( ( $line * 2 ) - $border);
+	
+}
+
+%box-flush-top {
+	border-top: 0;
+}
+
+%box-flush-bottom {
+	border-bottom: 0;
+}
+
+
+%box-flush-left {
+	border-left: 0;
+}
+
+%box-flush-right {
+	border-right: 0;
+}

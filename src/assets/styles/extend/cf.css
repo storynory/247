@@ -1,0 +1,12 @@
+/*     layout          */
+
+s.clear {
+	@extend %clear-both;
+}
+
+.cf:after {
+ content:"";
+ @extend %clear-both;
+ @extend %display-table;
+
+ }

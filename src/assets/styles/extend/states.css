@@ -1,0 +1,39 @@
+
+/*states */
+
+/*  @import "../sil/colors.css";
+You have to use different class names from the silent selectors */
+
+
+.main {
+	@extend %background-main;
+	@extend %border-main-dark;
+	@extend %color-white;
+}
+
+
+.main-light {
+	@extend %background-main-light;
+	@extend %border-main-dark;
+	@extend %color-white;
+}
+
+.btn-main {
+	@extend .main;
+}
+
+
+a.btn:hover {
+	@extend %color-white;
+}
+
+
+a {
+	@extend %color-main-darker;
+
+}
+
+a:hover {
+	@extend %color-main-lighter;
+
+}

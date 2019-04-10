@@ -1,0 +1,43 @@
+
+{
+  "use": [
+    "postcss-partial-import",
+    "autoprefixer",
+    "postcss-extend", 
+    "postcss-font-magician",
+    "postcss-mixins",
+    "postcss-simple-vars",
+     "postcss-calc",
+    "postcss-pxtorem", 
+    "postcss-color-function",
+    "postcss-nesting",
+    "postcss-inline-svg",
+     "postcss-svgo"
+ 
+   
+  ], 
+
+  "autoprefixer":  {
+    "browsers" : ["last 3 versions"]
+  },
+
+ "postcss-font-magician":  {
+    "protocol": "https:"
+  },
+
+
+    
+    "postcss-pxtorem" : { 
+    "rootValue": 16,
+    "unitPrecision": 5,
+    "propWhiteList": ["font", "font-size", "line-height", "letter-spacing"],
+    "selectorBlackList": [],
+    "replace": false,
+    "mediaQuery": false,
+    "minPixelValue": 0
+    
+   }
+
+}
+
+

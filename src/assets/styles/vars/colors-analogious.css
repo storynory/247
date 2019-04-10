@@ -1,0 +1,39 @@
+/* complementary schemes are side by side with 
+30deg increments usually there are five colors. 
+we can choose 4 out of the five which are
++0
++30
++60
++90
++120
+hsl(225, 94%, 80%)
+hsl(244, 65%, 71%)
+*/
+
+$hue : 224; 
+$hue2: calc($hue + 30);
+$hue3 : calc($hue + 60);
+$sat : 65%;
+$light : 71%;
+
+
+
+$maincolor : color(hsla($hue, $sat, $light, 1));
+$maincolor-dark :     color( $maincolor l( - 10%))  ;
+$maincolor-darker :   color( $maincolor l( - 25%))  ;
+$maincolor-light :    color( $maincolor l( + 10%))  ;
+$maincolor-lighter :  color( $maincolor l( + 20%))  ;
+
+
+$altcolor :        	color(hsla($hue2, $sat, $light, 1));
+$altcolor-dark :    color( $altcolor  	l( - 10%))  ;
+$altcolor-darker :  color( $altcolor  	l( - 20%))  ;
+$altcolor-light :   color( $altcolor  	l( +10%))  ;
+$altcolor-lighter : color( $altcolor  	l( + 20%))  ;
+
+$accentcolor : color(hsla($hue3, $sat, $light, 1));
+$accentcolor-dark :   color( $accentcolor  		l( - 10%))  ;
+$accentcolor-darker :  color( $accentcolor  	l( - 20%))  ;
+$accentcolor-light :  color( $accentcolor  		l( + 10%))  ;
+$accentcolor-lighter :  color( $accentcolor  	l( + 20%))  ;
+

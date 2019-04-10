@@ -1,0 +1,248 @@
+/*    grids           */
+/* 
+   Grid Fractions
+   ========================================================================== */
+
+    .stack,
+    .stack li,
+    .stack .stack_u,
+    .one-whole {
+       @extend %width-one-hundred-per-cent;
+    }
+
+
+.g-start {
+align-items: flex-start;
+}
+.g-end {
+align-items: flex-end;
+}
+.g-center {
+align-items: center;
+justify-content: center;
+}
+
+.g-stretch {
+align-items: stretch;
+}
+
+.g-baseline {
+align-items: baseline;
+}
+
+
+.g-m-wrap,
+.g-m {
+    letter-spacing: -.31em;
+    letter-spacing: normal;
+    word-spacing: -.43em;
+    text-rendering: optimizespeed;
+    font-family: FreeSans, Arimo, Droid Sans, Helvetica, Arial, sans-serif;
+  
+ 
+    display: flex; 
+    align-content: flex-start;
+     
+  
+}
+
+.g-m-wrap {
+    flex-flow: row wrap;
+}
+
+.g-m-justify {
+    justify-content: space-between;
+}
+
+
+.g-m,
+.opera-only:-o-prefocus {
+    word-spacing: -.43em
+}
+
+.u-m {
+    display: inline-block;
+    display: inline;
+    letter-spacing: normal;
+    word-spacing: normal;
+    vertical-align: top;
+    text-rendering: auto;
+    font-family: helvetica, sans-serif;
+}
+
+
+
+
+
+.g-wrap,
+.g {
+    letter-spacing: -.31em;
+    letter-spacing: normal;
+    word-spacing: -.43em;
+    text-rendering: optimizespeed;
+    font-family: FreeSans, Arimo, Droid Sans, Helvetica, Arial, sans-serif; 
+    display: flex; 
+    align-content: flex-start;  
+}
+
+.g-wrap {
+    flex-flow: row wrap;
+}
+
+.g-justify {
+    justify-content: space-between;
+}
+
+
+.g,
+.opera-only:-o-prefocus {
+    word-spacing: -.43em
+}
+
+.u {
+    display: inline-block;
+    display: inline;
+    letter-spacing: normal;
+    word-spacing: normal;
+    vertical-align: top;
+    text-rendering: auto;
+    font-family: helvetica, sans-serif;
+}
+
+ 
+
+.panel {
+    display: flex;
+    flex-direction: column;
+    align-content: stretch;
+}
+
+.panel-body {
+    display: flex;
+    flex-grow: 1;
+}
+
+
+
+.bottom {
+  margin: auto;
+}
+ 
+
+ @media screen and (min-width: $page) {
+
+   .one-half {
+    width: 50%;
+   }
+
+    .one-third {
+        width: 33.333%
+    }
+    .two-thirds {
+        width: 66.667%
+    }
+    .one-quarter {
+        width: 25%
+    }
+    .three-quarters {
+        width: 75%
+    }
+    .one-fifth {
+        width: 20%
+    }
+    .two-fifths {
+        width: 40%
+    }
+    .three-fifths {
+        width: 60%
+    }
+    .four-fifths {
+        width: 80%
+    }
+    .one-sixth {
+        width: 16.667%
+    }
+    .one-seventh {
+        width: 14.286%
+    }
+    .one-eighth {
+        width: 12.5%
+    }
+    .one-nineth {
+        width: 11.111%
+    }
+    .one-tenth {
+        width: 10%
+    }
+    .one-eleventh {
+        width: 9.091%
+    }
+    .one-twelth {
+        width: 8.333%
+    }
+
+
+/*. golden ration */
+
+    .golden-5 {
+      width: 38.46%;
+    }
+
+    .golden-8 {
+      width: 61.53%;
+    }
+
+    .golden-2-5 {
+      width: 19.23%;
+    }
+
+
+}
+
+
+@media screen and (max-width: $wide) {
+    
+    .wrap-at-page {
+        
+        letter-spacing: -.31em;
+        letter-spacing: normal;
+        word-spacing: -.43em;
+        text-rendering: optimizespeed;
+        font-family: FreeSans, Arimo, Droid Sans, Helvetica, Arial, sans-serif;
+        display: flex; 
+        align-content: flex-start;
+        flex-flow: row wrap;
+
+
+        }
+
+}
+
+@media screen and (min-width: $wide) {
+
+.g-row {
+    flex-direction: row;
+}
+    .row-one {
+         order: 1; 
+    }
+
+    .row-two {
+         order: 2; 
+    }
+
+
+    .row-three {
+         order: 3; 
+    }
+
+    .row-four {
+         order: 4; 
+    }
+
+    .row-five {
+         order: 5; 
+    }
+
+
+}

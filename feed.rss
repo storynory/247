@@ -1,0 +1,457 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:cc="http://web.resource.org/cc/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<channel>
+		<atom:link href="http://www.philosophy247.org/feed.rss" rel="self" type="application/rss+xml"/>
+		<title>Philosophy 247</title>
+		<pubDate>Tue, 20 Sep 2016 15:19:35 +0000</pubDate>
+		<lastBuildDate>Wed, 21 Sep 2016 15:05:34 +0000</lastBuildDate>
+		<generator>Storynory Feed Gen</generator>
+		<link>http://www.philosophy247.org</link>
+		<language>en</language>
+		<copyright><![CDATA[]]></copyright>
+		<docs>http://www.philosophy247.org</docs>
+		<managingEditor>david.edmonds@philosophy247.org (david.edmonds@philosophy247.org)</managingEditor>
+		<itunes:summary><![CDATA[David Edmonds interviews leading philosophers about moral issues that effect us 24/7.]]></itunes:summary>
+		<image>
+			<url>http://static.libsyn.com/p/assets/d/3/3/f/d33f2d47715b7bbe/itunes.jpg</url>
+			<title>Philosophy 247</title>
+			<link><![CDATA[http://www.philosophy247.org]]></link>
+		</image>
+		<itunes:author>David Edmonds</itunes:author>
+	<itunes:category text="Society &amp; Culture">
+		<itunes:category text="Philosophy"/>
+	</itunes:category>
+	<itunes:category text="Science &amp; Medicine">
+		<itunes:category text="Social Sciences"/>
+	</itunes:category>
+	<itunes:category text="Education">
+		<itunes:category text="Higher Education"/>
+	</itunes:category>
+		<itunes:image href="http://static.libsyn.com/p/assets/d/3/3/f/d33f2d47715b7bbe/itunes.jpg" />
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:owner>
+			<itunes:name><![CDATA[Hugh Fraser]]></itunes:name>
+			<itunes:email>hugh@storynory.com</itunes:email>
+		</itunes:owner>
+		<description><![CDATA[David Edmonds interviews leading philosophers about moral issues that effect us 24/7.]]></description>
+		<itunes:subtitle><![CDATA[Interviews with leading philosophers.]]></itunes:subtitle>
+				
+
+				<item>
+			<title>Democracy </title>
+			<pubDate>Mon, 18 Mar 2019 17:00:00 -0700</pubDate>
+			<guid isPermaLink="false">http://www.philosophy247.org/podcasts/democracy</guid>
+			<link><![CDATA[http://philosophy247.org/podcasts/democracy]]></link>
+			<itunes:image href="http://philosophy247.org/assets/img/itunes.jpg" />
+			<description><![CDATA[ How can we save democracy? ]]></description>
+			<enclosure length="0" type="audio/mpeg" url="https://traffic.libsyn.com/philosophy247/democracy.mp3" />
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[ How can we save democracy? ]]></itunes:subtitle>
+					</item>
+
+				<item>
+			<title>Lookism </title>
+			<pubDate>Sat, 01 Dec 2018 16:00:00 -0800</pubDate>
+			<guid isPermaLink="false">http://www.philosophy247.org/podcasts/lookism</guid>
+			<link><![CDATA[http://philosophy247.org/podcasts/lookism]]></link>
+			<itunes:image href="http://philosophy247.org/assets/img/itunes.jpg" />
+			<description><![CDATA[ Francesca Minerva says discrimination based on looks is a serious problem. ]]></description>
+			<enclosure length="0" type="audio/mpeg" url="http://traffic.libsyn.com/philosophy247/lookism.mp3" />
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[ Francesca Minerva says discrimination based on looks is a serious problem. ]]></itunes:subtitle>
+					</item>
+
+				<item>
+			<title>Intellectual Arrogance </title>
+			<pubDate>Sun, 14 Oct 2018 17:00:00 -0700</pubDate>
+			<guid isPermaLink="false">http://www.philosophy247.org/podcasts/arrogance</guid>
+			<link><![CDATA[http://philosophy247.org/podcasts/arrogance]]></link>
+			<itunes:image href="http://philosophy247.org/assets/img/itunes.jpg" />
+			<description><![CDATA[ Are we becoming incapable of respecting other people's opinions?   ]]></description>
+			<enclosure length="0" type="audio/mpeg" url="http://traffic.libsyn.com/philosophy247/arrogance.mp3" />
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[ Are we becoming incapable of respecting other people's opinions?   ]]></itunes:subtitle>
+					</item>
+
+				<item>
+			<title>How neo-liberalism has twisted liberalism </title>
+			<pubDate>Wed, 01 Aug 2018 17:00:00 -0700</pubDate>
+			<guid isPermaLink="false">http://www.philosophy247.org/podcasts/neo</guid>
+			<link><![CDATA[http://philosophy247.org/podcasts/neo]]></link>
+			<itunes:image href="http://philosophy247.org/assets/img/itunes.jpg" />
+			<description><![CDATA[ Does neo-liberalism continue the values of classical liberalism? ]]></description>
+			<enclosure length="0" type="audio/mpeg" url="http://traffic.libsyn.com/philosophy247/neo.mp3" />
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[ Does neo-liberalism continue the values of classical liberalism? ]]></itunes:subtitle>
+					</item>
+
+				<item>
+			<title>Should we pay reparations for wrongs committed in the past? </title>
+			<pubDate>Thu, 24 May 2018 17:00:00 -0700</pubDate>
+			<guid isPermaLink="false">http://www.philosophy247.org/podcasts/reparations</guid>
+			<link><![CDATA[http://philosophy247.org/podcasts/reparations]]></link>
+			<itunes:image href="http://philosophy247.org/assets/img/itunes.jpg" />
+			<description><![CDATA[ Are African Americans owed reparations for the enslavement of their ancestors?  ]]></description>
+			<enclosure length="0" type="audio/mpeg" url="http://traffic.libsyn.com/philosophy247/reparations.mp3" />
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[ Are African Americans owed reparations for the enslavement of their ancestors?  ]]></itunes:subtitle>
+					</item>
+
+				<item>
+			<title>Is Life Without Meaning? </title>
+			<pubDate>Mon, 16 Apr 2018 17:00:00 -0700</pubDate>
+			<guid isPermaLink="false">http://www.philosophy247.org/podcasts/meaning</guid>
+			<link><![CDATA[http://philosophy247.org/podcasts/meaning]]></link>
+			<itunes:image href="http://philosophy247.org/assets/img/itunes.jpg" />
+			<description><![CDATA[ Do you ever get the feeling that life is meaningless? ]]></description>
+			<enclosure length="0" type="audio/mpeg" url="https://traffic.libsyn.com/philosophy247/meaning.mp3" />
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[ Do you ever get the feeling that life is meaningless? ]]></itunes:subtitle>
+					</item>
+
+				<item>
+			<title>Are we becoming too preoccupied with beauty? </title>
+			<pubDate>Mon, 12 Mar 2018 17:00:00 -0700</pubDate>
+			<guid isPermaLink="false">http://www.philosophy247.org/podcasts/beauty</guid>
+			<link><![CDATA[http://philosophy247.org/podcasts/beauty]]></link>
+			<itunes:image href="http://philosophy247.org/assets/img/itunes.jpg" />
+			<description><![CDATA[ Society expects us to conform to standards of beauty more than ever - says Heather Widdows. ]]></description>
+			<enclosure length="0" type="audio/mpeg" url="http://traffic.libsyn.com/philosophy247/beauty.mp3" />
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[ Society expects us to conform to standards of beauty more than ever - says Heather Widdows. ]]></itunes:subtitle>
+					</item>
+
+				<item>
+			<title>Are there benefits to Psychedelic Drugs? </title>
+			<pubDate>Mon, 12 Feb 2018 16:00:00 -0800</pubDate>
+			<guid isPermaLink="false">http://www.philosophy247.org/podcasts/psychedelic</guid>
+			<link><![CDATA[http://philosophy247.org/podcasts/psychedelic]]></link>
+			<itunes:image href="http://philosophy247.org/assets/img/itunes.jpg" />
+			<description><![CDATA[ An intellectual trip with Ole Martin Moen. ]]></description>
+			<enclosure length="0" type="audio/mpeg" url="http://traffic.libsyn.com/philosophy247/psychedelic.mp3" />
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[ An intellectual trip with Ole Martin Moen. ]]></itunes:subtitle>
+					</item>
+
+				<item>
+			<title>Robot Love </title>
+			<pubDate>Mon, 15 Jan 2018 16:00:00 -0800</pubDate>
+			<guid isPermaLink="false">http://www.philosophy247.org/podcasts/robot-love</guid>
+			<link><![CDATA[http://philosophy247.org/podcasts/robot-love]]></link>
+			<itunes:image href="http://philosophy247.org/assets/img/itunes.jpg" />
+			<description><![CDATA[ Can robots fall in love? ]]></description>
+			<enclosure length="0" type="audio/mpeg" url="http://traffic.libsyn.com/blogrelations/robot-love2.mp3" />
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[ Can robots fall in love? ]]></itunes:subtitle>
+					</item>
+
+				<item>
+			<title>Evolution and Cooperation </title>
+			<pubDate>Mon, 11 Dec 2017 16:00:00 -0800</pubDate>
+			<guid isPermaLink="false">http://www.philosophy247.org/podcasts/altruism</guid>
+			<link><![CDATA[http://philosophy247.org/podcasts/altruism]]></link>
+			<itunes:image href="http://philosophy247.org/assets/img/itunes.jpg" />
+			<description><![CDATA[ Why do some animals behave in altruistic ways? With Jonathan Birch. ]]></description>
+			<enclosure length="0" type="audio/mpeg" url="http://traffic.libsyn.com/philosophy247/altruism.mp3" />
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[ Why do some animals behave in altruistic ways? With Jonathan Birch. ]]></itunes:subtitle>
+					</item>
+
+				<item>
+			<title>Sacred Places and Traditions </title>
+			<pubDate>Sun, 19 Nov 2017 16:00:00 -0800</pubDate>
+			<guid isPermaLink="false">http://www.philosophy247.org/podcasts/sacred</guid>
+			<link><![CDATA[http://philosophy247.org/podcasts/sacred]]></link>
+			<itunes:image href="http://philosophy247.org/assets/img/itunes.jpg" />
+			<description><![CDATA[ What is so sacred that it deserves special protection? ]]></description>
+			<enclosure length="0" type="audio/mpeg" url="http://traffic.libsyn.com/philosophy247/sacred.mp3" />
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[ What is so sacred that it deserves special protection? ]]></itunes:subtitle>
+					</item>
+
+				<item>
+			<title>Resistance to Change </title>
+			<pubDate>Thu, 19 Oct 2017 17:00:00 -0700</pubDate>
+			<guid isPermaLink="false">http://www.philosophy247.org/podcasts/no-change</guid>
+			<link><![CDATA[http://philosophy247.org/podcasts/no-change]]></link>
+			<itunes:image href="http://philosophy247.org/assets/img/itunes.jpg" />
+			<description><![CDATA[ Change can disturb our peaceful existence - are we right to resist it? With Quassim Cassam. ]]></description>
+			<enclosure length="0" type="audio/mpeg" url="http://traffic.libsyn.com/philosophy247/no-change.mp3" />
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[ Change can disturb our peaceful existence - are we right to resist it? With Quassim Cassam. ]]></itunes:subtitle>
+					</item>
+
+				<item>
+			<title>Indirect Discrimination </title>
+			<pubDate>Sun, 08 Oct 2017 17:00:00 -0700</pubDate>
+			<guid isPermaLink="false">http://www.philosophy247.org/podcasts/indirect-discrimination/index</guid>
+			<link><![CDATA[http://philosophy247.org/podcasts/indirect-discrimination/index]]></link>
+			<itunes:image href="http://philosophy247.org/assets/img/itunes.jpg" />
+			<description><![CDATA[ Can discrimination be subtle and indirect, as in Aesop's fable of the fox and the stork? ]]></description>
+			<enclosure length="0" type="audio/mpeg" url="http://traffic.libsyn.com/philosophy247/indirect-discrimination.mp3" />
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[ Can discrimination be subtle and indirect, as in Aesop's fable of the fox and the stork? ]]></itunes:subtitle>
+					</item>
+
+				<item>
+			<title>Male Circumcision </title>
+			<pubDate>Sun, 10 Sep 2017 17:00:00 -0700</pubDate>
+			<guid isPermaLink="false">http://www.philosophy247.org/podcasts/circumcision</guid>
+			<link><![CDATA[http://philosophy247.org/podcasts/circumcision]]></link>
+			<itunes:image href="http://philosophy247.org/assets/img/itunes.jpg" />
+			<description><![CDATA[ Should we ban male circumcision? ]]></description>
+			<enclosure length="0" type="audio/mpeg" url="http://traffic.libsyn.com/philosophy247/circumcision.mp3" />
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[ Should we ban male circumcision? ]]></itunes:subtitle>
+					</item>
+
+				<item>
+			<title>Do victims have obligations too? </title>
+			<pubDate>Sat, 12 Aug 2017 17:00:00 -0700</pubDate>
+			<guid isPermaLink="false">http://www.philosophy247.org/podcasts/victim</guid>
+			<link><![CDATA[http://philosophy247.org/podcasts/victim]]></link>
+			<itunes:image href="http://philosophy247.org/assets/img/itunes.jpg" />
+			<description><![CDATA[ Are you a victim of crime? What are YOUR obligations? ]]></description>
+			<enclosure length="0" type="audio/mpeg" url="http://traffic.libsyn.com/philosophy247/victim.mp3" />
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[ Are you a victim of crime? What are YOUR obligations? ]]></itunes:subtitle>
+					</item>
+
+				<item>
+			<title>Profiling </title>
+			<pubDate>Sun, 09 Jul 2017 17:00:00 -0700</pubDate>
+			<guid isPermaLink="false">http://www.philosophy247.org/podcasts/profiling</guid>
+			<link><![CDATA[http://philosophy247.org/podcasts/profiling]]></link>
+			<itunes:image href="http://philosophy247.org/assets/img/itunes.jpg" />
+			<description><![CDATA[ Profiling is commonplace?  But is it ethical? ]]></description>
+			<enclosure length="0" type="audio/mpeg" url="http://traffic.libsyn.com/philosophy247/profiling.mp3" />
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[ Profiling is commonplace?  But is it ethical? ]]></itunes:subtitle>
+					</item>
+
+				<item>
+			<title>Who can join the political community? </title>
+			<pubDate>Sun, 18 Jun 2017 17:00:00 -0700</pubDate>
+			<guid isPermaLink="false">http://www.philosophy247.org/podcasts/political-membership</guid>
+			<link><![CDATA[http://philosophy247.org/podcasts/political-membership]]></link>
+			<itunes:image href="http://philosophy247.org/assets/img/itunes.jpg" />
+			<description><![CDATA[ Not everyone has access to the same rights in a democratic country. Are our ideas of political membership changing in a globalised world?  With Seyla Benhabib. ]]></description>
+			<enclosure length="0" type="audio/mpeg" url="http://traffic.libsyn.com/philosophy247/BenhabibCommunity.mp3" />
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[ Not everyone has access to the same rights in a democratic country. Are our ideas of political membership changing in a globalised world?  With Seyla Benhabib. ]]></itunes:subtitle>
+					</item>
+
+				<item>
+			<title>Why Care about Privacy? </title>
+			<pubDate>Sat, 03 Jun 2017 17:00:00 -0700</pubDate>
+			<guid isPermaLink="false">http://www.philosophy247.org/podcasts/privacy</guid>
+			<link><![CDATA[http://philosophy247.org/podcasts/privacy]]></link>
+			<itunes:image href="http://philosophy247.org/assets/img/itunes.jpg" />
+			<description><![CDATA[ Is privacy really a fundamental value? With Annabelle Lever. ]]></description>
+			<enclosure length="0" type="audio/mpeg" url="http://traffic.libsyn.com/philosophy247/privacy.mp3" />
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[ Is privacy really a fundamental value? With Annabelle Lever. ]]></itunes:subtitle>
+					</item>
+
+				<item>
+			<title>Robots and Retribution </title>
+			<pubDate>Tue, 16 May 2017 17:00:00 -0700</pubDate>
+			<guid isPermaLink="false">http://www.philosophy247.org/podcasts/robots-revenge</guid>
+			<link><![CDATA[http://philosophy247.org/podcasts/robots-revenge]]></link>
+			<itunes:image href="http://philosophy247.org/assets/img/itunes.jpg" />
+			<description><![CDATA[ Who will we blame in the future? ]]></description>
+			<enclosure length="0" type="audio/mpeg" url="http://traffic.libsyn.com/philosophy247/DanaherRobotsApril2017.mp3" />
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[ Who will we blame in the future? ]]></itunes:subtitle>
+					</item>
+
+				<item>
+			<title>How Unfairness Drives Us Crazy </title>
+			<pubDate>Fri, 21 Apr 2017 17:00:00 -0700</pubDate>
+			<guid isPermaLink="false">http://www.philosophy247.org/podcasts/fairness</guid>
+			<link><![CDATA[http://philosophy247.org/podcasts/fairness]]></link>
+			<itunes:image href="http://philosophy247.org/assets/img/itunes.jpg" />
+			<description><![CDATA[ Dr. Molly Crockett on whether we are hard-wired to reject an unfair deal. ]]></description>
+			<enclosure length="0" type="audio/mpeg" url="http://traffic.libsyn.com/philosophy247/Crockett_Fairness.mp3" />
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[ Dr. Molly Crockett on whether we are hard-wired to reject an unfair deal. ]]></itunes:subtitle>
+					</item>
+
+				<item>
+			<title>Citizenship Tests </title>
+			<pubDate>Mon, 03 Apr 2017 17:00:00 -0700</pubDate>
+			<guid isPermaLink="false">http://www.philosophy247.org/podcasts/citizenship</guid>
+			<link><![CDATA[http://philosophy247.org/podcasts/citizenship]]></link>
+			<itunes:image href="http://philosophy247.org/assets/img/itunes.jpg" />
+			<description><![CDATA[ Thom Brooks says that citizenship tests are often absurd ]]></description>
+			<enclosure length="0" type="audio/mpeg" url="http://traffic.libsyn.com/philosophy247/Brooks_CitizenTests.mp3" />
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[ Thom Brooks says that citizenship tests are often absurd ]]></itunes:subtitle>
+					</item>
+
+				<item>
+			<title>The Just Riot? </title>
+			<pubDate>Mon, 20 Mar 2017 17:00:00 -0700</pubDate>
+			<guid isPermaLink="false">http://www.philosophy247.org/podcasts/riots</guid>
+			<link><![CDATA[http://philosophy247.org/podcasts/riots]]></link>
+			<itunes:image href="http://philosophy247.org/assets/img/itunes.jpg" />
+			<description><![CDATA[ Avia Pasternak argues that some political riots are justified. ]]></description>
+			<enclosure length="0" type="audio/mpeg" url="http://traffic.libsyn.com/philosophy247/PasternakRiotsMarch2017.mp3" />
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[ Avia Pasternak argues that some political riots are justified. ]]></itunes:subtitle>
+					</item>
+
+				<item>
+			<title>The State and Marriage </title>
+			<pubDate>Sun, 26 Feb 2017 16:00:00 -0800</pubDate>
+			<guid isPermaLink="false">http://www.philosophy247.org/podcasts/marriage-state</guid>
+			<link><![CDATA[http://philosophy247.org/podcasts/marriage-state]]></link>
+			<itunes:image href="http://philosophy247.org/assets/img/itunes.jpg" />
+			<description><![CDATA[ Should a state with liberal values recognise marriage? ]]></description>
+			<enclosure length="0" type="audio/mpeg" url="http://traffic.libsyn.com/philosophy247/chambers-marriage.mp3" />
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[ Should a state with liberal values recognise marriage? ]]></itunes:subtitle>
+					</item>
+
+				<item>
+			<title>Creativity and Character </title>
+			<pubDate>Mon, 06 Feb 2017 16:00:00 -0800</pubDate>
+			<guid isPermaLink="false">http://www.philosophy247.org/podcasts/creativity</guid>
+			<link><![CDATA[http://philosophy247.org/podcasts/creativity]]></link>
+			<itunes:image href="http://philosophy247.org/assets/img/itunes.jpg" />
+			<description><![CDATA[ Matthew Kieran on the character traits of a person who is super-creative. ]]></description>
+			<enclosure length="0" type="audio/mpeg" url="http://traffic.libsyn.com/philosophy247/creativity.mp3" />
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[ Matthew Kieran on the character traits of a person who is super-creative. ]]></itunes:subtitle>
+					</item>
+
+				<item>
+			<title>Are We Biased About Love? </title>
+			<pubDate>Tue, 17 Jan 2017 16:00:00 -0800</pubDate>
+			<guid isPermaLink="false">http://www.philosophy247.org/podcasts/biased-about-love/biased-about-love</guid>
+			<link><![CDATA[http://philosophy247.org/podcasts/biased-about-love/biased-about-love]]></link>
+			<itunes:image href="http://philosophy247.org/assets/img/itunes.jpg" />
+			<description><![CDATA[ Does romance makes us irrationally optimistic about our chances of happiness?  And if so, is that a good or a bad thing? ]]></description>
+			<enclosure length="0" type="audio/mpeg" url="http://traffic.libsyn.com/philosophy247/biased-about-love.mp3" />
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[ Does romance makes us irrationally optimistic about our chances of happiness?  And if so, is that a good or a bad thing? ]]></itunes:subtitle>
+					</item>
+
+				<item>
+			<title>Self Defence </title>
+			<pubDate>Tue, 03 Jan 2017 16:00:00 -0800</pubDate>
+			<guid isPermaLink="false">http://www.philosophy247.org/podcasts/self-defence</guid>
+			<link><![CDATA[http://philosophy247.org/podcasts/self-defence]]></link>
+			<itunes:image href="http://philosophy247.org/assets/img/itunes.jpg" />
+			<description><![CDATA[ How far can we go in self defence?  And are some civilians legitimate targets in war? ]]></description>
+			<enclosure length="0" type="audio/mpeg" url="http://traffic.libsyn.com/philosophy247/self-defence.mp3" />
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[ How far can we go in self defence?  And are some civilians legitimate targets in war? ]]></itunes:subtitle>
+					</item>
+
+				<item>
+			<title>Universal Human Rights </title>
+			<pubDate>Thu, 15 Dec 2016 16:00:00 -0800</pubDate>
+			<guid isPermaLink="false">http://www.philosophy247.org/podcasts/rights</guid>
+			<link><![CDATA[http://philosophy247.org/podcasts/rights]]></link>
+			<itunes:image href="http://philosophy247.org/assets/img/itunes.jpg" />
+			<description><![CDATA[ Michael Ignatieff says that alluding to abstract principles around ‘human rights’ is not nearly as effective in persuading people to be generous towards strangers as appealing to their instincts of decency and hospitality. ]]></description>
+			<enclosure length="0" type="audio/mpeg" url="http://traffic.libsyn.com/philosophy247/ignatieff.mp3" />
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[ Michael Ignatieff says that alluding to abstract principles around ‘human rights’ is not nearly as effective in persuading people to be generous towards strangers as appealing to their instincts of decency and hospitality. ]]></itunes:subtitle>
+					</item>
+
+				<item>
+			<title>Why Worry about Class? </title>
+			<pubDate>Mon, 21 Nov 2016 16:00:00 -0800</pubDate>
+			<guid isPermaLink="false">http://www.philosophy247.org/podcasts/class</guid>
+			<link><![CDATA[http://philosophy247.org/podcasts/class]]></link>
+			<itunes:image href="http://philosophy247.org/assets/img/itunes.jpg" />
+			<description><![CDATA[ Holly Lawford Smith on class privilege and obligations. ]]></description>
+			<enclosure length="0" type="audio/mpeg" url="http://traffic.libsyn.com/philosophy247/worry-about-class-holly-lawford-smith.mp3" />
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[ Holly Lawford Smith on class privilege and obligations. ]]></itunes:subtitle>
+					</item>
+
+				<item>
+			<title>Should we care about debt? </title>
+			<pubDate>Sat, 05 Nov 2016 17:00:00 -0700</pubDate>
+			<guid isPermaLink="false">http://www.philosophy247.org/podcasts/debt</guid>
+			<link><![CDATA[http://philosophy247.org/podcasts/debt]]></link>
+			<itunes:image href="http://philosophy247.org/assets/img/itunes.jpg" />
+			<description><![CDATA[ Alex Douglas on the morality of debt and obligations. ]]></description>
+			<enclosure length="0" type="audio/mpeg" url="http://traffic.libsyn.com/philosophy247/alex-douglas-debt.mp3" />
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[ Alex Douglas on the morality of debt and obligations. ]]></itunes:subtitle>
+					</item>
+
+				<item>
+			<title>Super Intelligence </title>
+			<pubDate>Sat, 15 Oct 2016 17:00:00 -0700</pubDate>
+			<guid isPermaLink="false">http://www.philosophy247.org/podcasts/superintelligence</guid>
+			<link><![CDATA[http://philosophy247.org/podcasts/superintelligence]]></link>
+			<itunes:image href="http://philosophy247.org/assets/img/itunes.jpg" />
+			<description><![CDATA[ Nick Bostrom on machines that are becoming super intelligent. ]]></description>
+			<enclosure length="0" type="audio/mpeg" url="http://traffic.libsyn.com/philosophy247/Bostrom.mp3" />
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[ Nick Bostrom on machines that are becoming super intelligent. ]]></itunes:subtitle>
+					</item>
+
+				<item>
+			<title>Love and Attraction </title>
+			<pubDate>Mon, 19 Sep 2016 17:00:00 -0700</pubDate>
+			<guid isPermaLink="false">http://www.philosophy247.org/podcasts/love-attraction</guid>
+			<link><![CDATA[http://philosophy247.org/podcasts/love-attraction]]></link>
+			<itunes:image href="http://philosophy247.org/assets/img/itunes.jpg" />
+			<description><![CDATA[ The Philosophy of Love and Attraction.  Interview with Anders Sandberg. ]]></description>
+			<enclosure length="0" type="audio/mpeg" url="http://traffic.libsyn.com/philosophy247/popping-love-pills-anders-sandberg.mp3" />
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[ The Philosophy of Love and Attraction.  Interview with Anders Sandberg. ]]></itunes:subtitle>
+					</item>
+
+				<item>
+			<title>What's Wrong With Passive Aggression? </title>
+			<pubDate>Tue, 06 Sep 2016 17:00:00 -0700</pubDate>
+			<guid isPermaLink="false">http://www.philosophy247.org/podcasts/passive-aggressive</guid>
+			<link><![CDATA[http://philosophy247.org/podcasts/passive-aggressive]]></link>
+			<itunes:image href="http://philosophy247.org/assets/img/itunes.jpg" />
+			<description><![CDATA[ Rebecca Roache gives a cool-headed appraisal of a round-about way of showing hostility. ]]></description>
+			<enclosure length="0" type="audio/mpeg" url="http://traffic.libsyn.com/philosophy247/passive-agression-roache.mp3" />
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[ Rebecca Roache gives a cool-headed appraisal of a round-about way of showing hostility. ]]></itunes:subtitle>
+					</item>
+		
+	</channel>
+</rss>

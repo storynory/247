@@ -1,0 +1,7 @@
+%width-one-hundred-per-cent {
+	width: 100%;
+}
+
+%width-page{
+	max-width: 960px;
+}

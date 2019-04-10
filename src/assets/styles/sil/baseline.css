@@ -1,0 +1,59 @@
+
+%fontsize {
+	font-size: $p;
+}
+
+
+%fontsize1 {
+font-size: calc( $p * $ratio );
+}
+
+
+%fontsize2 {
+  font-size: calc( $p *  $ratio * $ratio );
+}
+
+
+%fontsize3 {
+  font-size: calc( $p * $ratio * $ratio * $ratio );
+}
+
+%fontsize4 {
+  font-size: calc( $p * $ratio * $ratio * $ratio * $ratio );
+}
+
+
+%fontsize5 {
+   font-size: calc( $p *  $ratio * $ratio * $ratio * $ratio * $ratio );
+}
+
+%fontsize6 {
+   font-size: calc( $p *  $ratio * $ratio * $ratio * $ratio * $ratio * $ratio );
+}
+
+%lineheight {
+	line-height: $lineheight;
+}
+
+%line1 {
+line-height: $line
+}
+
+
+%line2 {
+line-height: calc( $line * 2 );
+}
+
+
+%line3 {
+line-height: calc( $line * 3 );
+}
+
+
+%line4 {
+line-height: calc( $line * 4 );
+}
+
+%line5 {
+line-height: calc( $line * 5 );
+}

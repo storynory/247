@@ -1,0 +1,154 @@
+/*   colors storynory            */
+
+$yellow : #efd480;
+$gray : #e9ebee ;
+$blue :  #5A6886;
+$green : #69a366;
+
+
+.bk-white {
+		background-color: #fff;
+}
+
+.bk-green {
+	background-color: $green;
+}
+
+.bk-blue {
+	background-color: $blue;
+}
+
+.bk-yellow {
+	background-color: $yellow;
+}
+
+.bk-gray {
+	background-color: $gray;
+}
+
+.bk-black {
+	background-color: #333;
+}
+
+/* font colors  
+......................................... */
+
+.site-title,
+.clr-yellow {
+	color: $yellow;
+}
+
+a,
+.clr-green {
+	color: $green;
+}
+
+.clr-blue,
+input.a:hover,
+.a:hover,
+a:hover,
+a:active {
+	color: $blue
+}
+
+
+a.yel:hover {
+	color: $yellow;
+}
+
+
+
+.clr-white {
+	color: white;
+}
+
+
+.clr-red {
+	color: red;
+}
+
+body,
+.clr-black {
+	color: #333;
+}
+
+
+.brd-green {
+	border-color: $green;
+}
+
+.brd-top-green {
+	border-top-color: $green;
+}
+
+.brd-left-green {
+	border-left-color: $green;
+}
+
+.brd-right-green {
+	border-right-color: $green;
+}
+
+
+
+.brd-bottom-green {
+	border-bottom-color: $green;
+}
+
+a.original span,
+a.original .icon {
+  color: #69a366;
+}
+a.original span:hover,
+a.original .icon:hover {
+  color: pink;
+}
+.fairytales a, 
+.fairytales span,
+a.fairytales .icon {
+  color: #ffa0d6;
+}
+.fairytales span:hover,
+a.fairytales .icon:hover {
+  color: white;
+}
+.classic span,
+a.classic .icon {
+  color: #c3b9ff;
+}
+.classic span:hover,
+a.classic .icon:hover {
+  color: white;
+}
+.edu span,
+a.edu .icon {
+  color: orange;
+}
+.edu span:hover,
+a.edu .icon:hover {
+  color: white;
+}
+.myths span,
+a.myths .icon {
+  color: #e5e5e5;
+}
+.myths span:hover,
+a.myths .icon:hover {
+  color: white;
+}
+.music span,
+a.music .icon {
+  color: #efd480;
+}
+.music span:hover,
+a.music .icon:hover {
+  color: white;
+}
+.junior span,
+a.junior .icon {
+  color: #e55d3a;
+}
+.junior span:hover,
+a.junior .icon:hover {
+  color: white;
+}
