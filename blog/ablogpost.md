@@ -2,7 +2,7 @@
 title: A Minnie Blog post
 description: hello from Minnie
 date: 2019-03-15T07:42:34.000Z
-image: /media/images/dali.png
+image: /media/images/crazy-unfair.jpg
 ---
 
 Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
